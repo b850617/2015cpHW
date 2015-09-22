@@ -1988,9 +1988,9 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;第3張投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;對於功課的完成速度不太滿意 , 但是至少都弄懂了 , 也希望之後對自己的要求高一點&lt;/p&gt;
+    &lt;p&gt;評分 :  80 &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2022,14 +2022,20 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設二乙&lt;/h1&gt;
-    &lt;p&gt;學號姓名與日期&lt;/p&gt;		
+    &lt;p&gt;40323250 詹偉志&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務一&lt;/h1&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;p&gt;筆記&lt;/p&gt;
+    &lt;p&gt;1.如果從學校電腦抓12G的檔案 , leo 整個套件要自己去下載 , 安裝到 site- package 裡面 &lt;/p&gt;
+    &lt;p&gt;2.launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動程序 )&lt;/p&gt;
+    &lt;p&gt;3.檢查分支 : git bramch  , 新建分支 git branch (分支名稱)  , 切換分支 git checkout (分支名稱)&lt;/p&gt;
+    &lt;p&gt;4.因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
+    &lt;p&gt;5.新建的分支會複製原有的分支檔案&lt;/p&gt;
+    &lt;p&gt;6.dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
+    &lt;p&gt;7.git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
+    &lt;p&gt;REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
