@@ -2272,14 +2272,15 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20150923163632.1">&lt;section&gt;
-    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;h3&gt;自評&lt;/h3&gt;
+    &lt;br&gt;
     &lt;p&gt;這門課秉持著做實驗的精神 , 雖然上課有很多不懂的地方 ,  但是回家都會一步一步的測試 , 途中曾把leo玩壞了 , 也知道大概是哪個地方出問題 , 希望之後對自己的要求高一點&lt;/p&gt;
     &lt;p&gt;評分 :  80 &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20150923165929.1">&lt;section id="hw-task-two"&gt;
-    &lt;p align="left"&gt;10. 持續更新中&lt;/p&gt;
+    &lt;p align="left"&gt;10. reveal.leo 檔案更新完儲存之後推回github , 最後再按pelican-contect 就可以完成&lt;/p&gt;
     &lt;br&gt;
 &lt;/section&gt;
 				
