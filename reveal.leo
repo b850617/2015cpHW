@@ -290,11 +290,17 @@
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
+<<<<<<< HEAD
 <v t="amd.20150915211351.7"><vh>投影頁面1 封面</vh></v>
 <v t="amd.20150915211351.9"><vh>投影頁面2 筆記</vh></v>
 <v t="amd.20150915211351.12"><vh>投影頁面3 筆記</vh></v>
 <v t="leo.20150923165929.1"><vh>投影頁面4 筆記</vh></v>
 <v t="leo.20150923163632.1"><vh>投影頁面5 自評與心得</vh></v>
+=======
+<v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
+<v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
+<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+>>>>>>> e551222991b5225e166841b2659a8c61109759a0
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -1989,6 +1995,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/head&gt;
 @others
 </t>
+<<<<<<< HEAD
 <t tx="amd.20150915211351.12">&lt;section id="hw-task-two"&gt;
     &lt;p align="left"&gt;5. 新建的分支會複製原有的分支檔案&lt;/p&gt;
     &lt;br&gt;
@@ -2000,6 +2007,12 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;9. 儲存網內內容的 .leo 存檔之後所產生的simplest.html檔案 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
+=======
+<t tx="amd.20150915211351.12">&lt;section&gt;
+    &lt;h1&gt;自評&lt;/h1&gt;
+    &lt;p&gt;對於功課的完成速度不太滿意 , 但是至少都弄懂了 , 也希望之後對自己的要求高一點&lt;/p&gt;
+    &lt;p&gt;評分 :  80 &lt;/p&gt;
+>>>>>>> e551222991b5225e166841b2659a8c61109759a0
 &lt;/section&gt;
 				
 </t>
@@ -2030,13 +2043,19 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
+<<<<<<< HEAD
     &lt;h3&gt;四設計二乙&lt;/h3&gt;
     &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;		
+=======
+    &lt;h1&gt;四設二乙&lt;/h1&gt;
+    &lt;p&gt;40323250 詹偉志&lt;/p&gt;		
+>>>>>>> e551222991b5225e166841b2659a8c61109759a0
 &lt;/section&gt;
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;p&gt;筆記&lt;/p&gt;
+<<<<<<< HEAD
     &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 整個套件要自己去下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動  程序 )。&lt;/p&gt;
@@ -2046,6 +2065,16 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;p align="left"&gt; 切換分支 : git checkout (分支名稱)&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;4. 因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
+=======
+    &lt;p&gt;1.如果從學校電腦抓12G的檔案 , leo 整個套件要自己去下載 , 安裝到 site- package 裡面 &lt;/p&gt;
+    &lt;p&gt;2.launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動程序 )&lt;/p&gt;
+    &lt;p&gt;3.檢查分支 : git bramch  , 新建分支 git branch (分支名稱)  , 切換分支 git checkout (分支名稱)&lt;/p&gt;
+    &lt;p&gt;4.因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
+    &lt;p&gt;5.新建的分支會複製原有的分支檔案&lt;/p&gt;
+    &lt;p&gt;6.dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
+    &lt;p&gt;7.git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
+    &lt;p&gt;REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
+>>>>>>> e551222991b5225e166841b2659a8c61109759a0
 &lt;/section&gt;
 				
 </t>
@@ -2253,6 +2282,7 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
+<<<<<<< HEAD
 <t tx="leo.20150923163632.1">&lt;section&gt;
     &lt;h1&gt;自評&lt;/h1&gt;
     &lt;p&gt;這門課秉持著做實驗的精神 , 雖然上課有很多不懂的地方 ,  但是回家都會一步一步的測試 , 途中曾把leo玩壞了 , 也知道大概是哪個地方出問題 , 希望之後對自己的要求高一點&lt;/p&gt;
@@ -2267,5 +2297,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 				
 </t>
+=======
+>>>>>>> e551222991b5225e166841b2659a8c61109759a0
 </tnodes>
 </leo_file>
