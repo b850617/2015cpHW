@@ -2017,7 +2017,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;br&gt;
     &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;9. 儲存網內內容的 .leo 存檔之後所產生的simplest.html檔案 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
+    &lt;p align="left"&gt;9.  reveal.leo 存檔之後所產生的simplest.html檔案 , 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2055,7 +2055,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;p&gt;筆記&lt;/p&gt;
-    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 整個套件要自己去下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
+    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動  程序 )。&lt;/p&gt;
     &lt;br&gt;
@@ -2274,14 +2274,21 @@ sudo pip3 install IPython[notebook]==3.2.1
 <t tx="leo.20150923163632.1">&lt;section&gt;
     &lt;h3&gt;自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;這門課秉持著做實驗的精神 , 雖然上課有很多不懂的地方 ,  但是回家都會一步一步的測試 , 途中曾把leo玩壞了 , 也知道大概是哪個地方出問題 , 希望之後對自己的要求高一點&lt;/p&gt;
-    &lt;p&gt;評分 :  80 &lt;/p&gt;
+    &lt;p&gt;對門課秉持著做實驗的精神 , 雖然上課有很多不懂的地方 ,  但是回家都會一步一步的測試 , , 也知道大概是哪個地方出問題 , 希望之後對自己的要求高一點&lt;/p&gt;
+    &lt;p&gt;評分 :  90 &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="leo.20150923165929.1">&lt;section id="hw-task-two"&gt;
-    &lt;p align="left"&gt;10. reveal.leo 檔案更新完儲存之後推回github , 最後再按pelican-contect 就可以完成&lt;/p&gt;
+    &lt;p align="left"&gt;10. github 產生的倉儲可以依造自己所需 , 產生 https 或者 ssh 的clone  URL&lt;/p&gt;
     &lt;br&gt;
+    &lt;p align="left"&gt;11. leo 檔案不正當的關閉 , 將導致 leo editor 出現錯誤而無法正常開啟&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
+    &lt;br&gt;
+    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和複製到 .git 檔 或  路徑錯誤 或 者其他問題
+    &lt;br&gt;
+    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯老師檔案 等原因 &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
