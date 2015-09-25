@@ -295,6 +295,7 @@
 <v t="amd.20150915211351.12"><vh>投影頁面3 筆記</vh></v>
 <v t="leo.20150923165929.1"><vh>投影頁面4 筆記</vh></v>
 <v t="leo.20150923163632.1"><vh>投影頁面5 自評與心得</vh></v>
+<v t="40323250.20150925091408.1"><vh>投影頁面6 參考資料</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -502,7 +503,7 @@
 <v t="leo.20150923202920.7"><vh>old:投影頁面2 筆記</vh></v>
 <v t="leo.20150923202920.8"><vh>new:投影頁面2 筆記</vh></v>
 </v>
-<v t="leo.20150923202920.9"><vh>Recovered node "投影頁面4 筆記" from @clean simplest.html</vh>
+<v t="leo.20150923202920.9" a="E"><vh>Recovered node "投影頁面4 筆記" from @clean simplest.html</vh>
 <v t="leo.20150923202920.10"><vh>old:投影頁面4 筆記</vh></v>
 <v t="leo.20150923202920.11"><vh>new:投影頁面4 筆記</vh></v>
 </v>
@@ -513,6 +514,20 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx="40323250.20150925091408.1">&lt;section&gt;
+    &lt;h3&gt;連結&lt;/h3&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3643#more-3643"&gt;2015Fall CP&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.phd.com.tw/knowledge/html/article/"&gt;HTML語法&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://openshift.redhat.com/app/console/applications"&gt;Openshift&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://bitbucket.org/"&gt;Bitbucket&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://vimeo.com/"&gt;Vimeo&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
+    &lt;hr&gt;
+    &lt;p align="left"&gt;上述某些網站會因太久沒有使用而遭刪除帳號 , 網址也會停擺 , 有時間都要回去看一下&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
