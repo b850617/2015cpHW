@@ -294,8 +294,9 @@
 <v t="amd.20150915211351.9"><vh>投影頁面2 筆記</vh></v>
 <v t="amd.20150915211351.12"><vh>投影頁面3 筆記</vh></v>
 <v t="leo.20150923165929.1"><vh>投影頁面4 筆記</vh></v>
-<v t="leo.20150923163632.1"><vh>投影頁面5 自評與心得</vh></v>
-<v t="40323250.20150925091408.1"><vh>投影頁面6 參考資料</vh></v>
+<v t="40323250.20150925200815.1"><vh>投影頁面5 筆記</vh></v>
+<v t="leo.20150923163632.1"><vh>投影頁面6 自評與心得</vh></v>
+<v t="40323250.20150925091408.1"><vh>投影頁面7 參考資料</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -523,8 +524,16 @@
     &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://bitbucket.org/"&gt;Bitbucket&lt;/a&gt;
     &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://vimeo.com/"&gt;Vimeo&lt;/a&gt;
     &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://blog.kejyun.com/2013/06/Build-Web-Page-On-Github.html"&gt;gh-pages 相關說明&lt;/a&gt;
     &lt;hr&gt;
     &lt;p align="left"&gt;上述某些網站會因太久沒有使用而遭刪除帳號 , 網址也會停擺 , 有時間都要回去看一下&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20150925200815.1">&lt;section id="hw-task-two"&gt;
+    &lt;p align="left"&gt;15. 老師的github倉儲放的資料都相同 , 只是版次不同&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;16. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 , 對於網站的架設有很大的幫助&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
