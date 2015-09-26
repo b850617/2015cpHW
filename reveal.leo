@@ -36,7 +36,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
@@ -284,12 +284,12 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
-<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
+<v t="amd.20150915211351.1"><vh>html 標註</vh>
+<v t="amd.20150915211351.4"><vh>body 標註</vh>
+<v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
+<v t="amd.20150915211351.6"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>投影頁面1 封面</vh></v>
 <v t="amd.20150915211351.9"><vh>投影頁面2 筆記</vh></v>
 <v t="amd.20150915211351.12"><vh>投影頁面3 筆記</vh></v>
@@ -495,7 +495,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20150923202920.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20150923202920.2"><vh>Recovered Nodes</vh>
 <v t="leo.20150923202920.3"><vh>Recovered node "投影頁面1 封面" from @clean simplest.html</vh>
 <v t="leo.20150923202920.4"><vh>old:投影頁面1 封面</vh></v>
 <v t="leo.20150923202920.5"><vh>new:投影頁面1 封面</vh></v>
@@ -504,7 +504,7 @@
 <v t="leo.20150923202920.7"><vh>old:投影頁面2 筆記</vh></v>
 <v t="leo.20150923202920.8"><vh>new:投影頁面2 筆記</vh></v>
 </v>
-<v t="leo.20150923202920.9" a="E"><vh>Recovered node "投影頁面4 筆記" from @clean simplest.html</vh>
+<v t="leo.20150923202920.9"><vh>Recovered node "投影頁面4 筆記" from @clean simplest.html</vh>
 <v t="leo.20150923202920.10"><vh>old:投影頁面4 筆記</vh></v>
 <v t="leo.20150923202920.11"><vh>new:投影頁面4 筆記</vh></v>
 </v>
