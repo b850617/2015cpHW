@@ -1,11 +1,11 @@
-Title: 2015 電腦輔助設計 ( W1、2 )
+Title: 測試
 Date: 2015-09-27 20:41
 Modified: 2015-09-27 20:41
 Category: Python
 Tags: pelican, publishing
 Slug: 2015cp_test
 Authors: b850617
-Summary: 作業一test
+Summary: 測試 一 test
 以下為作業一內容
 
 利用 iframe 嵌入投影片:
