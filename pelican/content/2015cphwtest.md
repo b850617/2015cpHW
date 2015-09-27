@@ -10,7 +10,7 @@ Summary: 測試 一 test
 
 利用 iframe 嵌入投影片:
 
-<iframe src="simplest.html" width="500" height="300"></iframe>
+<iframe src="simplest.html" width="400" height="200"></iframe>
 
 [作業一投影片](simplest2.html){:target="_blank"}
 
@@ -20,12 +20,12 @@ Summary: 測試 一 test
 文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料
 
 使用. *斜體文字*, **黑體文字**, 以及 `單線文字`. 表列資料可以寫為:
+~~~
+  * 456
+  * 123
+  * 789
+~~~
 
-  * 第1項說明
-  * 第2項說明
-  * 第3項說明
-
-特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.
 
 > 引用的內容寫在這裡
 > 主要是以大於的符號開頭.
@@ -39,13 +39,7 @@ pelican 可以支援 unicode. ☺
 H2 標題
 ------------
 
-有數字的表列資料:
 
- 1. 第1項
- 2. 第2項
- 3. 第3項
-
-跟前面一樣, 文字從第四個欄位開始.
 
 程式碼的表達:
 
@@ -62,7 +56,6 @@ define foobar() {
 }
 ~~~
 
-(這樣的表達比較容易用來複製程式碼內容).
 
 python 的程式碼, 可以寫成下列格式
 
@@ -101,12 +94,9 @@ for i in range(10):
 
 Markdown 的超文件連結寫法 [連到 Google](http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 [cadpbw1.html](cadpbw1.html){:target="_blank"}, 也能使用註腳 [^1].
 
+
+
 [^1]: 註腳會連結到這裡.
 
-放入圖檔, 可以直接利用 html 的 img 標註:
-
-<img src="images/3d_parts_viewer.png" width="250" alt="3D 零件檢視"></img>
-
-Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):
 
 <iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/137724068">Welcome Speech</a> from <a href="https://vimeo.com/user24079973">虎尾科大機械設計工程系 KMOL</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
