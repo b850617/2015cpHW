@@ -312,13 +312,14 @@
 <v t="40323250.20150930161946.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323250.20150930161946.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20150930161946.7"><vh>投影頁面1 封面</vh></v>
+<v t="40323250.20151004234147.1"><vh>投影頁面2 筆記</vh></v>
 </v>
 </v>
 <v t="40323250.20150930161946.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2"><vh>html 標註</vh>
 <v t="amd.20150915170743.3"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
@@ -614,6 +615,20 @@
 </t>
 <t tx="40323250.20151004223741.1">&lt;section id="hw-task-two"&gt;
     &lt;p&gt;待續&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151004234147.1">&lt;section id="hw-task-one"&gt;
+
+&lt;div style="position:relative;width:267px;height:25px;overflow:hidden;"&gt;
+  &lt;div style="position:absolute;top:-276px;left:-5px"&gt;
+    &lt;iframe width="300" height="300" 
+      src="https://www.youtube.com/embed/Jp2TFRqOOOs?rel=0"&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
 &lt;/section&gt;
 				
 </t>
