@@ -17,6 +17,9 @@ Summary: 測試 一 test
 使用 H1 標題
 ============
 
+<br>
+<marquee>跑馬燈</marquee>
+<br>
 <div style="position:relative;width:267px;height:25px;overflow:hidden;">
   <div style="position:absolute;top:-276px;left:-5px">
     <iframe width="300" height="300" 
