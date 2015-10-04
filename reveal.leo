@@ -553,7 +553,7 @@
     &lt;br&gt;
     &lt;p&gt;git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 )&lt;/p&gt;
+    &lt;p&gt;git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
