@@ -549,11 +549,11 @@
     &lt;br&gt;
     &lt;p align="left"&gt;16. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;分支如果有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
+    &lt;p&gt;17. 分支如果有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
+    &lt;p&gt;18. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
+    &lt;p&gt;19. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
