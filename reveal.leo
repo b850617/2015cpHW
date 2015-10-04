@@ -36,20 +36,20 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="40323250.20150927205130.1"><vh>@edit 2015cphwtest.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
-<v t="amd.20150913233943.2" a="E"><vh>html</vh>
-<v t="amd.20150913233943.3" a="E"><vh>head</vh>
+<v t="amd.20150913233943.2"><vh>html</vh>
+<v t="amd.20150913233943.3"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
 </v>
-<v t="amd.20150913233943.5" a="E"><vh>body</vh>
-<v t="amd.20150913233943.6" a="E"><vh>div</vh>
-<v t="amd.20150913233943.7" a="E"><vh>div</vh>
+<v t="amd.20150913233943.5"><vh>body</vh>
+<v t="amd.20150913233943.6"><vh>div</vh>
+<v t="amd.20150913233943.7"><vh>div</vh>
 <v t="amd.20150913234947.1"><vh>title page</vh>
 <v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
 </v>
@@ -68,13 +68,13 @@
 </v>
 </v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
-<v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915155634.3" a="E"><vh>head</vh>
+<v t="amd.20150915155634.2"><vh>html 標註</vh>
+<v t="amd.20150915155634.3"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8" a="E"><vh>body</vh>
+<v t="amd.20150915155634.8"><vh>body</vh>
 <v t="amd.20150915155634.9"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -270,7 +270,7 @@
 <v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3"><vh>html 標註</vh>
-<v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
+<v t="ibm.20150918175403.4"><vh>body 標註</vh>
 <v t="ibm.20150918175403.5"><vh>div class="reveal"</vh>
 <v t="ibm.20150918175403.6"><vh>div class="slides"</vh>
 <v t="ibm.20150918175403.7"><vh>有關我的作業</vh></v>
@@ -317,16 +317,16 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915170743.3" a="E"><vh>head</vh>
+<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.2"><vh>html 標註</vh>
+<v t="amd.20150915170743.3"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915170743.7" a="E"><vh>body</vh>
-<v t="amd.20150915170743.8" a="E"><vh>div - reveal</vh>
-<v t="amd.20150915170743.9" a="E"><vh>div - slides</vh>
+<v t="amd.20150915170743.7"><vh>body</vh>
+<v t="amd.20150915170743.8"><vh>div - reveal</vh>
+<v t="amd.20150915170743.9"><vh>div - slides</vh>
 <v t="amd.20150915170743.10"><vh>h1 - 一般單頁</vh></v>
 <v t="amd.20150915170743.11"><vh>h2</vh></v>
 <v t="amd.20150915170743.12"><vh>h2 - 垂直有下屬頁</vh>
@@ -509,7 +509,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20150923202920.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20150923202920.2"><vh>Recovered Nodes</vh>
 <v t="leo.20150923202920.3"><vh>Recovered node "投影頁面1 封面" from @clean simplest.html</vh>
 <v t="leo.20150923202920.4"><vh>old:投影頁面1 封面</vh></v>
 <v t="leo.20150923202920.5"><vh>new:投影頁面1 封面</vh></v>
