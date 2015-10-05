@@ -268,7 +268,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4"><vh>body 標註</vh>
@@ -526,7 +526,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20150923202920.2"><vh>Recovered Nodes</vh>
+<v t="leo.20150923202920.2" a="E"><vh>Recovered Nodes</vh>
 <v t="leo.20150923202920.3"><vh>Recovered node "投影頁面1 封面" from @clean simplest.html</vh>
 <v t="leo.20150923202920.4"><vh>old:投影頁面1 封面</vh></v>
 <v t="leo.20150923202920.5"><vh>new:投影頁面1 封面</vh></v>
