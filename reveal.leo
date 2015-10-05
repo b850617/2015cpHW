@@ -39,7 +39,7 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="40323250.20150927205130.1"><vh>@edit 2015cphwtest.md</vh></v>
-<v t="40323250.20151005181043.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="40323250.20151005181043.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
@@ -268,7 +268,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4"><vh>body 標註</vh>
@@ -286,7 +286,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -306,7 +306,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20150930161946.1"><vh>@clean simplest2.html</vh>
+<v t="40323250.20150930161946.1" a="E"><vh>@clean simplest0.html</vh>
 <v t="40323250.20150930161946.2"><vh>檔案說明</vh></v>
 <v t="40323250.20150930161946.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20150930161946.4" a="E"><vh>body 標註</vh>
@@ -320,7 +320,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005181146.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="40323250.20151005181146.1"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005181146.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151005181146.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151005181146.4" a="E"><vh>body 標註</vh>
@@ -526,7 +526,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20150923202920.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20150923202920.2"><vh>Recovered Nodes</vh>
 <v t="leo.20150923202920.3"><vh>Recovered node "投影頁面1 封面" from @clean simplest.html</vh>
 <v t="leo.20150923202920.4"><vh>old:投影頁面1 封面</vh></v>
 <v t="leo.20150923202920.5"><vh>new:投影頁面1 封面</vh></v>

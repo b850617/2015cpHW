@@ -10,9 +10,9 @@ Summary: 測試 一 test
 
 利用 iframe 嵌入投影片:
 
-<iframe src="simplest2.html" width="500" height="300"></iframe>
+<iframe src="simplest0.html" width="500" height="300"></iframe>
 
-[作業一投影片](simplest2.html){:target="_blank"}
+[作業一投影片](simplest0.html){:target="_blank"}
 
 使用 H1 標題
 ============
