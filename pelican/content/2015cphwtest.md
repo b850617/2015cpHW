@@ -6,8 +6,8 @@ Tags: pelican, publishing
 Slug: 2015cp_test
 Authors: b850617
 Summary: 測試 一 test
-以下為作業一內容
 
+以下為作業內容
 利用 iframe 嵌入投影片:
 
 <iframe src="simplest0.html" width="500" height="300"></iframe>
