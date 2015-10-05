@@ -314,6 +314,10 @@
 <v t="40323250.20151005184736.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151005184736.8"><vh>投影頁面2 筆記</vh></v>
+<v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
+<v t="40323250.20151005185326.1"><vh>投影頁面4 筆記</vh></v>
+<v t="40323250.20151005185356.1"><vh>投影頁面 自評與心得</vh></v>
+<v t="40323250.20151005185346.1"><vh>投影頁面 參考資料</vh></v>
 </v>
 </v>
 <v t="40323250.20151005184736.9"><vh>script</vh></v>
@@ -547,7 +551,7 @@
 </vnodes>
 <tnodes>
 <t tx="40323250.20150925091408.1">&lt;section&gt;
-    &lt;h3&gt;連結&lt;/h3&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
     
     &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3643#more-3643"&gt;2015Fall CP&lt;/a&gt;
     &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.phd.com.tw/knowledge/html/article/"&gt;HTML語法&lt;/a&gt;
@@ -691,7 +695,7 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015/10/05 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 05 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
@@ -717,6 +721,38 @@
     });
 &lt;/script&gt;
 	
+</t>
+<t tx="40323250.20151005185324.1">&lt;section id="hw-task-one"&gt;
+
+
+
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151005185326.1">&lt;section id="hw-task-one"&gt;
+
+
+
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151005185346.1">&lt;section&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="網址?p=3643#more-3643"&gt;名稱&lt;/a&gt;
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151005185356.1">&lt;section&gt;
+    &lt;h3&gt;自評&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;評分 :  95 &lt;/p&gt;
+&lt;/section&gt;
+				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
@@ -2255,7 +2291,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-       &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;2015/10/04 版本更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+       &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 04 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
     &lt;br&gt;	
