@@ -26,6 +26,8 @@ Summary: 測試 一 test
 </div>
 
 <br>
+<embed src="https://copy.com/OJy1p3zggbYSmPOp" autostart="true" loop="1" volume="100" width="230" height=45></embed>
+<embed src="https://copy.com/OJy1p3zggbYSmPOp" type="video/x-ms-asf" autostart="true" hidden="false" height="50" width="195"></embed>
 <hr>
 <br>
 <p>test line </p>
