@@ -17,7 +17,18 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;hr&gt;
-&lt;br&gt;
+&amp;lt;!DOCTYPE html&amp;gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;蟲師 -  春と嘯く&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls autoplay&gt;
+        &lt;source src="https://copy.com/uw3nr4icUyUjbVgm"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
 &lt;a href="#Top"&gt;回到Top&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計 ( W1、2 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;投影片為作業內容&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -1093,14 +1104,6 @@ sssssssss
 
 &lt;p&gt;&lt;a href="simplest0.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
-&lt;div style="position:relative;width:267px;height:25px;overflow:hidden;"&gt;
-  &lt;div style="position:absolute;top:-276px;left:-5px"&gt;
-    &lt;iframe width="300" height="300" 
-      src="https://www.youtube.com/embed/z0kGDLzZ05E?rel=0"&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
 &lt;p&gt;&lt;br&gt;
 &lt;hr&gt;
 &lt;br&gt;
@@ -1108,11 +1111,11 @@ sssssssss
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;title&gt;music&lt;/title&gt;
+&lt;title&gt;蟲師 -  春と嘯く&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
     &lt;audio controls autoplay&gt;
-        &lt;source src="https://copy.com/OJy1p3zggbYSmPOp"&gt;
+        &lt;source src="https://copy.com/uw3nr4icUyUjbVgm"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
