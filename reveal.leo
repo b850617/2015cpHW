@@ -29,7 +29,7 @@
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 <v t="amd.20150920030003.1"><vh>IPython notebook 整合</vh></v>
-<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -305,12 +305,12 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151005184736.3"><vh>html 標註</vh>
-<v t="40323250.20151005184736.4"><vh>body 標註</vh>
-<v t="40323250.20151005184736.5"><vh>div class="reveal"</vh>
-<v t="40323250.20151005184736.6"><vh>div class="slides"</vh>
+<v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20151005184736.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151005184736.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151005184736.8"><vh>投影頁面2 筆記</vh></v>
 <v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
@@ -324,10 +324,10 @@
 </v>
 <v t="40323250.20150930161946.1"><vh>@clean simplest0.html</vh>
 <v t="40323250.20150930161946.2"><vh>檔案說明</vh></v>
-<v t="40323250.20150930161946.3"><vh>html 標註</vh>
-<v t="40323250.20150930161946.4"><vh>body 標註</vh>
-<v t="40323250.20150930161946.5"><vh>div class="reveal"</vh>
-<v t="40323250.20150930161946.6"><vh>div class="slides"</vh>
+<v t="40323250.20150930161946.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20150930161946.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20150930161946.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20150930161946.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20150930161946.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151004234147.1"><vh>投影頁面2 筆記</vh></v>
 </v>
@@ -707,7 +707,7 @@
     &lt;br&gt;
     &lt;p align="left"&gt;3. solvespace 繪圖 :
     &lt;br&gt;
-    &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 &lt;/p&gt;
+    &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
     &lt;p align="left"&gt;*指定基準面後按  2  &lt;/p&gt;
     &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
     &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
@@ -725,8 +725,9 @@
 	
 </t>
 <t tx="40323250.20151005185324.1">&lt;section id="hw-task-one"&gt;
-    &lt;p align="left"&gt;待增加&lt;/p&gt;
-
+    &lt;p align="left"&gt;4. solvespace 也能旋轉填料( shift + l )，點選旋轉軸後按下指令即可&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. ctrl + shift + t 追蹤點的位置，並在結束( ctrl + shift + s )後產生一個csv檔 ( 可用 SciTE 或 Excel 查看位置變化，便於結構運動時的運算 )&lt;/p&gt;
 
 
 &lt;/section&gt;
