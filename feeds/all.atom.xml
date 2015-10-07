@@ -1106,13 +1106,17 @@ sssssssss
 &lt;hr&gt;
 &lt;br&gt;
 &lt;p&gt;test line &lt;/p&gt;&lt;/p&gt;
-&lt;div style="position:relative;width:267px;height:25px;overflow:hidden;"&gt;
-  &lt;div style="position:absolute;top:-276px;left:-5px"&gt;
-    &lt;iframe width="300" height="300" 
-      src="https://www.youtube.com/embed/Jp2TFRqOOOs?rel=0"&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;music&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls autoplay&gt;
+        &lt;source src="https://copy.com/OJy1p3zggbYSmPOp"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 
 &lt;p&gt;使用註腳 &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;p&gt;123&lt;/p&gt;
