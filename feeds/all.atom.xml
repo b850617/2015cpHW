@@ -1102,7 +1102,6 @@ sssssssss
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;
-&lt;embed src="https://copy.com/OJy1p3zggbYSmPOp" autostart="true" hidden="false" loop="1" volume="100%" width="200" height="100" /&gt;
 &lt;hr&gt;
 &lt;br&gt;
 &lt;p&gt;test line &lt;/p&gt;&lt;/p&gt;
@@ -1113,7 +1112,7 @@ sssssssss
 &lt;/head&gt;
 &lt;body&gt;
     &lt;audio controls autoplay&gt;
-        &lt;source src="https://copy.com/OJy1p3zggbYSmPOp"&gt;
+        &lt;source src="https://copy.com/OJy1p3zggbYSmPOp"autostart="flase"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
