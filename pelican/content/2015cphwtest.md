@@ -36,9 +36,7 @@ Summary: 測試 一 test
 <title>music</title>
 </head>
 <body>
-    <audio controls autoplay>
-        <source src="https://copy.com/OJy1p3zggbYSmPOp"autostart="flase">
-    </audio>
+      <source src="https://copy.com/OJy1p3zggbYSmPOp">
 </body>
 </html>
 
