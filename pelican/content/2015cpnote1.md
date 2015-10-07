@@ -1,6 +1,6 @@
 Title: 2015 計算機程式 Jupyter
-Date: 2015-09-30 16:31
-Modified: 2015-09-30 16:31
+Date: 2015-09-26 16:31
+Modified: 2015-09-26 16:31
 Category: Python
 Tags: Jupyter, IPython
 Slug: 2015cp_note1

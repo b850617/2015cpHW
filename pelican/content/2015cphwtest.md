@@ -1,6 +1,6 @@
 Title: 測試
-Date: 2015-09-30 16:12
-Modified: 2015-09-30 16:12
+Date: 2015-09-26 16:12
+Modified: 2015-09-26 16:12
 Category: Python
 Tags: pelican, publishing
 Slug: 2015cp_test
@@ -26,7 +26,7 @@ Summary: 測試 一 test
 </div>
 
 <br>
-<embed src="https://copy.com/OJy1p3zggbYSmPOp" autostart="true" hidden="false" loop="1" volume="100" width="200" height="100" />
+<embed src="https://copy.com/OJy1p3zggbYSmPOp" autostart="true" hidden="false" loop="1" volume="100%" width="200" height="100" />
 <hr>
 <br>
 <p>test line </p>

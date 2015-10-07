@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = 'KMOL'
+AUTHOR = '40323250'
 SITENAME = '2015電腦輔助設計 課程'
 SITEURL = ''
 
@@ -27,6 +27,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
+         ('My Github', 'https://github.com/b850617/2015cpHW'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
