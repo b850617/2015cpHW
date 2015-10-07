@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015電腦輔助設計 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-06T20:04:00+08:00</updated><entry><title>2015 電腦輔助設計 ( W4 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-06T20:04:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-06:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;投影片為作業內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015電腦輔助設計 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-10-06T20:04:00+08:00</updated><entry><title>2015 電腦輔助設計 ( W4 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-06T20:04:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-06:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;&lt;a name="Top"&gt;Top&lt;/a&gt;
+投影片為作業內容&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
@@ -14,6 +15,8 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;hr&gt;
+&lt;a href="#Top"&gt;回到Top&lt;/a&gt;
 &lt;hr&gt;
 &lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計 ( W1、2 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;投影片為作業內容&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
