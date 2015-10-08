@@ -6,7 +6,7 @@ Tags: pelican, publishing
 Slug: 2015cp_test
 Authors: b850617
 Summary: 測試 一 test
-
+<body　bgcolor="blue">
 以下為作業內容
 利用 iframe 嵌入投影片:
 
@@ -44,6 +44,6 @@ Summary: 測試 一 test
 123
 
 [^1]: 註腳會連結到這裡.
-
+</body>
 
 

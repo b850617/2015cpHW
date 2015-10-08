@@ -13,7 +13,7 @@
 <v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
-<v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
+<v t="amd.20150915153206.1"><vh>專案說明</vh>
 <v t="amd.20150919102209.1"><vh>使用工具</vh>
 <v t="amd.20150919112415.1"><vh>影片檔案</vh></v>
 </v>
@@ -29,7 +29,7 @@
 </v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 <v t="amd.20150920030003.1"><vh>IPython notebook 整合</vh></v>
-<v t="amd.20150919112710.1" a="E"><vh>@path pelican</vh>
+<v t="amd.20150919112710.1"><vh>@path pelican</vh>
 <v t="amd.20150919113340.1"><vh>以下為與 pelican 有關的設定檔案</vh></v>
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -286,12 +286,12 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
-<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
+<v t="amd.20150915211351.1"><vh>html 標註</vh>
+<v t="amd.20150915211351.4"><vh>body 標註</vh>
+<v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
+<v t="amd.20150915211351.6"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>投影頁面1 封面</vh></v>
 <v t="amd.20150915211351.9"><vh>投影頁面2 筆記</vh></v>
 <v t="amd.20150915211351.12"><vh>投影頁面3 筆記</vh></v>
@@ -305,12 +305,12 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151005184736.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151005184736.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151005184736.3"><vh>html 標註</vh>
+<v t="40323250.20151005184736.4"><vh>body 標註</vh>
+<v t="40323250.20151005184736.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151005184736.6"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151005184736.8"><vh>投影頁面2 筆記</vh></v>
 <v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
