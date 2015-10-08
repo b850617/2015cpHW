@@ -1097,7 +1097,7 @@ sssssssss
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;p&gt;&lt;body　bgcolor="blue"&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;p&gt;&lt;body　bgcolor="blue"&gt; 
 以下為作業內容
 利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest0.html" width="500" height="300"&gt;&lt;/iframe&gt;
