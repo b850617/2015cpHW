@@ -286,12 +286,12 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1"><vh>html 標註</vh>
-<v t="amd.20150915211351.4"><vh>body 標註</vh>
-<v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6"><vh>div class="slides"</vh>
+<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
+<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
+<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
+<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>投影頁面1 封面</vh></v>
 <v t="amd.20150915211351.9"><vh>投影頁面2 筆記</vh></v>
 <v t="amd.20150915211351.12"><vh>投影頁面3 筆記</vh></v>
@@ -305,12 +305,12 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151005184736.3"><vh>html 標註</vh>
-<v t="40323250.20151005184736.4"><vh>body 標註</vh>
-<v t="40323250.20151005184736.5"><vh>div class="reveal"</vh>
-<v t="40323250.20151005184736.6"><vh>div class="slides"</vh>
+<v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20151005184736.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151005184736.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151005184736.8"><vh>投影頁面2 筆記</vh></v>
 <v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
@@ -739,6 +739,7 @@
     &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.powmo.com/#b14?p=3643#more-3643"&gt;HTML語法&lt;/a&gt;
    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://github.com/doggy8088/Learn-Git-in-30-days/"&gt;Learn-Git-in-30-days&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.tpjh.kh.edu.tw/edu/fp/theory/30syn/htmlteach.files/html.htm#t1"&gt;HTML語法教學&lt;/a&gt;
 
 
 
