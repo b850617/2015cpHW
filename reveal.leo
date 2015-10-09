@@ -843,7 +843,7 @@ ctrl + shift + d  creat a file belong to reveal2
 &lt;p&gt;
 @others
 &lt;/p&gt;
-&lt;/section&gt;
+				&lt;/section&gt;
 				
 </t>
 <t tx="40323250.20151009223651.1">
