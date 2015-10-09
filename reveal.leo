@@ -36,7 +36,7 @@
 </v>
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
 <v t="40323250.20151005181043.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="40323250.20150927205130.1"><vh>@edit 2015cphwtest.md</vh></v>
@@ -44,14 +44,14 @@
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
-<v t="amd.20150913233943.2" a="E"><vh>html</vh>
-<v t="amd.20150913233943.3" a="E"><vh>head</vh>
+<v t="amd.20150913233943.2"><vh>html</vh>
+<v t="amd.20150913233943.3"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
 </v>
-<v t="amd.20150913233943.5" a="E"><vh>body</vh>
-<v t="amd.20150913233943.6" a="E"><vh>div</vh>
-<v t="amd.20150913233943.7" a="E"><vh>div</vh>
-<v t="amd.20150913234947.1" a="E"><vh>title page</vh>
+<v t="amd.20150913233943.5"><vh>body</vh>
+<v t="amd.20150913233943.6"><vh>div</vh>
+<v t="amd.20150913233943.7"><vh>div</vh>
+<v t="amd.20150913234947.1"><vh>title page</vh>
 <v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
 </v>
 <v t="amd.20150913235034.1"><vh>本日要點</vh></v>
@@ -69,13 +69,13 @@
 </v>
 </v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
-<v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915155634.3" a="E"><vh>head</vh>
+<v t="amd.20150915155634.2"><vh>html 標註</vh>
+<v t="amd.20150915155634.3"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8" a="E"><vh>body</vh>
+<v t="amd.20150915155634.8"><vh>body</vh>
 <v t="amd.20150915155634.9"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -305,12 +305,12 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
-<v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151005184736.5" a="E"><vh>div class="reveal"</vh>
-<v t="40323250.20151005184736.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151005184736.3"><vh>html 標註</vh>
+<v t="40323250.20151005184736.4"><vh>body 標註</vh>
+<v t="40323250.20151005184736.5"><vh>div class="reveal"</vh>
+<v t="40323250.20151005184736.6"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151005184736.8"><vh>投影頁面2 筆記</vh></v>
 <v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
@@ -330,8 +330,18 @@
 <v t="40323250.20150930161946.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323250.20150930161946.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20150930161946.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151004234147.1"><vh>投影頁面2 筆記</vh></v>
-<v t="40323250.20151009213852.1" a="E"><vh>h2 - 垂直有下屬頁</vh>
+<v t="40323250.20151004234147.1" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151009221515.1"><vh></vh></v>
+</v>
+<v t="40323250.20151009215712.1"><vh>p</vh>
+<v t="40323250.20151009215712.2"><vh>a</vh></v>
+<v t="40323250.20151009215712.3"><vh>a</vh></v>
+<v t="40323250.20151009215712.4"><vh>a</vh></v>
+<v t="40323250.20151009215712.5"><vh>a</vh></v>
+<v t="40323250.20151009215712.6"><vh>a</vh></v>
+<v t="40323250.20151009215712.7"><vh>a</vh></v>
+</v>
+<v t="40323250.20151009213852.1"><vh>h2 - 垂直有下屬頁</vh>
 <v t="40323250.20151009213852.2"><vh>h2</vh></v>
 <v t="40323250.20151009213852.3"><vh>h2</vh></v>
 <v t="40323250.20151009213852.4"><vh>h2</vh></v>
@@ -342,9 +352,9 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915170743.3" a="E"><vh>head</vh>
+<v t="amd.20150915170743.3"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
@@ -358,9 +368,9 @@
 <v t="amd.20150915170743.17"><vh>h2</vh></v>
 <v t="amd.20150915170743.18"><vh>h2</vh></v>
 <v t="amd.20150915170743.19"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915170743.20"><vh>h2</vh>
+<v t="amd.20150915170743.20" a="E"><vh>h2</vh>
 <v t="amd.20150915170743.21"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915170743.22"><vh>下屬頁面</vh>
+<v t="amd.20150915170743.22" a="E"><vh>下屬頁面</vh>
 <v t="amd.20150915170743.23"><vh>h2</vh></v>
 <v t="amd.20150915170743.24"><vh>p</vh></v>
 <v t="amd.20150915170743.25"><vh>p</vh></v>
@@ -381,13 +391,15 @@
 <v t="amd.20150915170743.38"><vh>a</vh></v>
 </v>
 <v t="amd.20150915170743.39"><vh>h2 - 更換主題</vh></v>
-<v t="amd.20150915170743.40"><vh>p</vh>
-<v t="amd.20150915170743.41"><vh>a</vh></v>
-<v t="amd.20150915170743.42"><vh>a</vh></v>
+<v t="amd.20150915170743.40" a="E"><vh>p</vh>
+<v t="amd.20150915170743.41" a="E"><vh>a</vh>
+<v t="40323250.20151009221400.1"><vh></vh></v>
+</v>
 <v t="amd.20150915170743.43"><vh>a</vh></v>
 <v t="amd.20150915170743.44"><vh>a</vh></v>
 <v t="amd.20150915170743.45"><vh>a</vh></v>
 <v t="amd.20150915170743.46"><vh>a</vh></v>
+<v t="amd.20150915170743.42"><vh>a</vh></v>
 <v t="amd.20150915170743.47"><vh>a</vh></v>
 <v t="amd.20150915170743.48"><vh>a</vh></v>
 <v t="amd.20150915170743.49"><vh>a</vh></v>
@@ -395,9 +407,6 @@
 <v t="amd.20150915170743.51"><vh>a</vh></v>
 </v>
 <v t="amd.20150915170743.52"><vh>h2</vh></v>
-<v t="amd.20150915170743.53"><vh>p</vh>
-<v t="amd.20150915170743.54"><vh>code</vh></v>
-</v>
 <v t="amd.20150915170743.55"><vh>a</vh></v>
 <v t="amd.20150915170743.56"><vh>h2</vh></v>
 <v t="amd.20150915170743.57"><vh>pre</vh>
@@ -420,6 +429,9 @@
 <v t="amd.20150915170743.70"><vh>code</vh></v>
 </v>
 <v t="amd.20150915170743.71"><vh>h2 - 背景轉換</vh></v>
+<v t="amd.20150915170743.53"><vh>p</vh>
+<v t="amd.20150915170743.54"><vh>code</vh></v>
+</v>
 <v t="amd.20150915170743.72"><vh>p</vh></v>
 <v t="amd.20150915170743.73"><vh>pre</vh>
 <v t="amd.20150915170743.74"><vh>code</vh></v>
@@ -631,15 +643,8 @@
 &lt;/section&gt;
 	
 </t>
-<t tx="40323250.20151004234147.1">&lt;section id="hw-task-one"&gt;
-
-&lt;div style="position:relative;width:267px;height:25px;overflow:hidden;"&gt;
-  &lt;div style="position:absolute;top:-276px;left:-5px"&gt;
-    &lt;iframe width="300" height="300" 
-      src="https://www.youtube.com/embed/Jp2TFRqOOOs?rel=0"&gt;
-    &lt;/iframe&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+<t tx="40323250.20151004234147.1">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
 
 
 &lt;/section&gt;
@@ -799,6 +804,31 @@
     &lt;/a&gt;
 &lt;/section&gt;
 						</t>
+<t tx="40323250.20151009215712.1">&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+
+
+					</t>
+<t tx="40323250.20151009215712.2">
+You can select from different transitions, like: &lt;br&gt;
+&lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
+</t>
+<t tx="40323250.20151009215712.3">&lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
+						</t>
+<t tx="40323250.20151009215712.4">&lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
+						</t>
+<t tx="40323250.20151009215712.5">&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
+						</t>
+<t tx="40323250.20151009215712.6">&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
+						</t>
+<t tx="40323250.20151009215712.7">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
+					</t>
+<t tx="40323250.20151009221400.1"></t>
+<t tx="40323250.20151009221515.1">&lt;section&gt;
+ctrl + shift + d  creat a file belong to reveal2
+&lt;/section&gt; </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1947,8 +1977,7 @@ You can select from different transitions, like: &lt;br&gt;
 				&lt;section&gt;
 					&lt;section data-background="#dddddd"&gt;
 						</t>
-<t tx="amd.20150915170743.41">
-reveal.js comes with a few themes built in: &lt;br&gt;
+<t tx="amd.20150915170743.41">reveal.js comes with a few themes built in: &lt;br&gt;
 &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
 &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
 </t>
