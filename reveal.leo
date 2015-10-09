@@ -846,7 +846,7 @@ ctrl + shift + d  creat a file belong to reveal2
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151009223651.1">&lt;section&gt;
+<t tx="40323250.20151009223651.1">
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
 </t>
@@ -866,7 +866,7 @@ ctrl + shift + d  creat a file belong to reveal2
     &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
     &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
     &lt;p align="left"&gt;*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤&lt;/p&gt;
-&lt;/section&gt;</t>
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
