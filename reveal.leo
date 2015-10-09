@@ -331,9 +331,9 @@
 <v t="40323250.20150930161946.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20150930161946.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151004234147.1" a="E"><vh>投影頁面2 筆記</vh>
-<v t="40323250.20151009221515.1"><vh></vh></v>
+<v t="40323250.20151009221515.1"><vh>123123</vh></v>
 </v>
-<v t="40323250.20151009215712.1"><vh>p</vh>
+<v t="40323250.20151009215712.1" a="E"><vh>p</vh>
 <v t="40323250.20151009215712.2"><vh>a</vh></v>
 <v t="40323250.20151009215712.3"><vh>a</vh></v>
 <v t="40323250.20151009215712.4"><vh>a</vh></v>
@@ -643,7 +643,8 @@
 &lt;/section&gt;
 	
 </t>
-<t tx="40323250.20151004234147.1">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+<t tx="40323250.20151004234147.1">&lt;section&gt;
+&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
 &lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
 
 
@@ -826,9 +827,9 @@ You can select from different transitions, like: &lt;br&gt;
 <t tx="40323250.20151009215712.7">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
 					</t>
 <t tx="40323250.20151009221400.1"></t>
-<t tx="40323250.20151009221515.1">&lt;section&gt;
+<t tx="40323250.20151009221515.1">
 ctrl + shift + d  creat a file belong to reveal2
-&lt;/section&gt; </t>
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
