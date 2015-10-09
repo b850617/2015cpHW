@@ -331,6 +331,7 @@
 <v t="40323250.20150930161946.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20150930161946.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151004234147.1" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151009222354.1"><vh>123123</vh></v>
 <v t="40323250.20151009221515.1"><vh>123123</vh></v>
 </v>
 <v t="40323250.20151009215712.1" a="E"><vh>p</vh>
@@ -352,7 +353,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915170743.3"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
@@ -644,12 +645,11 @@
 	
 </t>
 <t tx="40323250.20151004234147.1">&lt;section&gt;
-&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
-&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
 
-
-&lt;/section&gt;
-				
 </t>
 <t tx="40323250.20151005184736.1">@language xml
 @tabwidth -4
@@ -828,8 +828,10 @@ You can select from different transitions, like: &lt;br&gt;
 <t tx="40323250.20151009215712.7">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
 					</t>
 <t tx="40323250.20151009221400.1"></t>
-<t tx="40323250.20151009221515.1">
-ctrl + shift + d  creat a file belong to reveal2
+<t tx="40323250.20151009221515.1">ctrl + shift + d  creat a file belong to reveal2
+</t>
+<t tx="40323250.20151009222354.1">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
