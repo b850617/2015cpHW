@@ -307,8 +307,8 @@
 </v>
 <v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151005184736.3"><vh>html 標註</vh>
-<v t="40323250.20151005184736.4"><vh>body 標註</vh>
+<v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
 <v t="40323250.20151005184736.5"><vh>div class="reveal"</vh>
 <v t="40323250.20151005184736.6"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
@@ -342,7 +342,7 @@
 <v t="40323250.20151009215712.6"><vh>a</vh></v>
 <v t="40323250.20151009215712.7"><vh>a</vh></v>
 </v>
-<v t="40323250.20151009213852.1"><vh>h2 - 垂直有下屬頁</vh>
+<v t="40323250.20151009213852.1" a="E"><vh>h2 - 垂直有下屬頁</vh>
 <v t="40323250.20151009213852.2"><vh>h2</vh></v>
 <v t="40323250.20151009213852.3"><vh>h2</vh></v>
 <v t="40323250.20151009213852.4"><vh>h2</vh></v>
@@ -828,10 +828,13 @@ You can select from different transitions, like: &lt;br&gt;
 <t tx="40323250.20151009215712.7">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
 					</t>
 <t tx="40323250.20151009221400.1"></t>
-<t tx="40323250.20151009221515.1">ctrl + shift + d  creat a file belong to reveal2
-</t>
-<t tx="40323250.20151009222354.1">&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+<t tx="40323250.20151009221515.1">&lt;section&gt;
+ctrl + shift + d  creat a file belong to reveal2
+&lt;/section&gt;</t>
+<t tx="40323250.20151009222354.1">&lt;section&gt;
+&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
 &lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
+&lt;/section&gt;
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
