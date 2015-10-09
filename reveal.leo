@@ -305,14 +305,19 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
-<v t="40323250.20151005184736.5"><vh>div class="reveal"</vh>
-<v t="40323250.20151005184736.6"><vh>div class="slides"</vh>
+<v t="40323250.20151005184736.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151005184736.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151005184736.8"><vh>投影頁面2 筆記</vh></v>
+<v t="40323250.20151009223636.1" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151009223651.1"><vh>1</vh></v>
+<v t="40323250.20151009223655.1"><vh>2</vh></v>
+<v t="40323250.20151009223723.1"><vh>3</vh></v>
+<v t="40323250.20151009223725.1"><vh>4</vh></v>
+</v>
 <v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
 <v t="40323250.20151009211548.1"><vh>投影頁面4 筆記</vh></v>
 <v t="40323250.20151005185356.1"><vh>投影頁面 自評與心得</vh></v>
@@ -705,23 +710,6 @@
 &lt;/section&gt;
 	
 </t>
-<t tx="40323250.20151005184736.8">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
-    &lt;p align="left"&gt;1. 建立網誌須注意檔案名稱是否衝突&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2. 測試多筆資料時，新建一個測試倉儲&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. solvespace 繪圖 :
-    &lt;br&gt;
-    &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
-    &lt;p align="left"&gt;*指定基準面後按  2  &lt;/p&gt;
-    &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
-    &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
-    &lt;p align="left"&gt;*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="40323250.20151005184736.9">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -731,7 +719,7 @@
 &lt;/script&gt;
 	
 </t>
-<t tx="40323250.20151005185324.1">&lt;section id="hw-task-one"&gt;
+<t tx="40323250.20151005185324.1">&lt;section id="hw-task-two"&gt;
     &lt;p align="left"&gt;4. solvespace 也能旋轉填料( shift + l )，點選旋轉軸後按下指令即可&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;5. ctrl + shift + t 追蹤點的位置，並在結束( ctrl + shift + s )後產生一個csv檔 ( 可用 SciTE 或 Excel 查看位置變化，便於結構運動時的運算 )&lt;/p&gt;
@@ -766,7 +754,7 @@
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151009211548.1">&lt;section id="hw-task-one"&gt;
+<t tx="40323250.20151009211548.1">&lt;section id="hw-task-three"&gt;
     &lt;p align="left"&gt;8. 繪製圓弧時，功能tangant arc 很常出現問題，目前只會將線段刪除重畫解決&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;9. 
@@ -823,8 +811,23 @@ You can select from different transitions, like: &lt;br&gt;
 						</t>
 <t tx="40323250.20151009215712.5">&lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
 						</t>
-<t tx="40323250.20151009215712.6">&lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-						</t>
+<t tx="40323250.20151009215712.6">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
+    &lt;p align="left"&gt;1. 建立網誌須注意檔案名稱是否衝突&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2. 測試多筆資料時，新建一個測試倉儲&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. solvespace 繪圖 :
+    &lt;br&gt;
+    &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
+    &lt;p align="left"&gt;*指定基準面後按  2  &lt;/p&gt;
+    &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
+    &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
+    &lt;p align="left"&gt;*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
 <t tx="40323250.20151009215712.7">&lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
 					</t>
 <t tx="40323250.20151009221400.1"></t>
@@ -836,6 +839,34 @@ ctrl + shift + d  creat a file belong to reveal2
 &lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="40323250.20151009223636.1">&lt;section id="hw-task-one"&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151009223651.1">&lt;section&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
+&lt;/section&gt;</t>
+<t tx="40323250.20151009223655.1">&lt;section&gt;
+    &lt;p align="left"&gt;1. 建立網誌須注意檔案名稱是否衝突&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;</t>
+<t tx="40323250.20151009223723.1">&lt;section&gt;
+    &lt;p align="left"&gt;2. 測試多筆資料時，新建一個測試倉儲&lt;/p&gt;
+    &lt;br&gt;
+&lt;/section&gt;</t>
+<t tx="40323250.20151009223725.1">&lt;section&gt;
+    &lt;p align="left"&gt;3. solvespace 繪圖 :
+    &lt;br&gt;
+    &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
+    &lt;p align="left"&gt;*指定基準面後按  2  &lt;/p&gt;
+    &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
+    &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
+    &lt;p align="left"&gt;*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
