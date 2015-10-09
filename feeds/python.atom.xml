@@ -1104,6 +1104,14 @@ sssssssss
 &lt;p&gt;&lt;a href="simplest0.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;
+&lt;a href="http://www.google.com" target="_blank"&gt;連到 Google&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="http://www.google.com" target="_parent"&gt;連到 Google&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="http://www.google.com" target="_self"&gt;連到 Google&lt;/a&gt;
+&lt;br&gt;
+&lt;a href="http://www.google.com" target="_top"&gt;連到 Google&lt;/a&gt;
+&lt;br&gt;
 &lt;hr&gt;
 &lt;br&gt;
 &lt;p&gt;test line &lt;/p&gt;&lt;/p&gt;
