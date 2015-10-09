@@ -805,7 +805,8 @@
     &lt;/a&gt;
 &lt;/section&gt;
 						</t>
-<t tx="40323250.20151009215712.1">&lt;p&gt;
+<t tx="40323250.20151009215712.1">&lt;section&gt;
+&lt;p&gt;
 @others
 &lt;/p&gt;
 				&lt;/section&gt;
