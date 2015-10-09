@@ -323,37 +323,37 @@
 </v>
 </v>
 </v>
-<v t="40323250.20150930161946.1"><vh>@clean simplest0.html</vh>
+<v t="40323250.20150930161946.1" a="E"><vh>@clean simplest0.html</vh>
 <v t="40323250.20150930161946.2"><vh>檔案說明</vh></v>
-<v t="40323250.20150930161946.3"><vh>html 標註</vh>
-<v t="40323250.20150930161946.4"><vh>body 標註</vh>
-<v t="40323250.20150930161946.5"><vh>div class="reveal"</vh>
-<v t="40323250.20150930161946.6"><vh>div class="slides"</vh>
+<v t="40323250.20150930161946.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20150930161946.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20150930161946.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20150930161946.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20150930161946.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151004234147.1"><vh>投影頁面2 筆記</vh></v>
+<v t="40323250.20151009213852.1" a="E"><vh>h2 - 垂直有下屬頁</vh>
+<v t="40323250.20151009213852.2"><vh>h2</vh></v>
+<v t="40323250.20151009213852.3"><vh>h2</vh></v>
+<v t="40323250.20151009213852.4"><vh>h2</vh></v>
+</v>
 </v>
 </v>
 <v t="40323250.20150930161946.14"><vh>script</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2"><vh>html 標註</vh>
-<v t="amd.20150915170743.3"><vh>head</vh>
+<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915170743.3" a="E"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915170743.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915170743.6"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915170743.7"><vh>body</vh>
-<v t="amd.20150915170743.8"><vh>div - reveal</vh>
-<v t="amd.20150915170743.9"><vh>div - slides</vh>
+<v t="amd.20150915170743.7" a="E"><vh>body</vh>
+<v t="amd.20150915170743.8" a="E"><vh>div - reveal</vh>
+<v t="amd.20150915170743.9" a="E"><vh>div - slides</vh>
 <v t="amd.20150915170743.10"><vh>h1 - 一般單頁</vh></v>
 <v t="amd.20150915170743.11"><vh>h2</vh></v>
-<v t="amd.20150915170743.12"><vh>h2 - 垂直有下屬頁</vh>
-<v t="amd.20150915170743.13"><vh>h2</vh></v>
-<v t="amd.20150915170743.14"><vh>h2</vh></v>
-<v t="amd.20150915170743.15"><vh>h2</vh></v>
-</v>
 <v t="amd.20150915170743.16"><vh>h2</vh></v>
 <v t="amd.20150915170743.17"><vh>h2</vh></v>
 <v t="amd.20150915170743.18"><vh>h2</vh></v>
@@ -372,7 +372,7 @@
 </v>
 </v>
 <v t="amd.20150915170743.31"><vh>h2</vh></v>
-<v t="amd.20150915170743.32"><vh>p</vh>
+<v t="amd.20150915170743.32" a="E"><vh>p</vh>
 <v t="amd.20150915170743.33"><vh>a</vh></v>
 <v t="amd.20150915170743.34"><vh>a</vh></v>
 <v t="amd.20150915170743.35"><vh>a</vh></v>
@@ -769,6 +769,36 @@
 &lt;/section&gt;
 				
 </t>
+<t tx="40323250.20151009213852.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+						</t>
+<t tx="40323250.20151009213852.2">&lt;section&gt;
+    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
+    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
+    &lt;p&gt;
+    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
+    &lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#" class="navigate-down"&gt;
+    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="40323250.20151009213852.3">&lt;section&gt;
+    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
+    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+&lt;/section&gt;
+						</t>
+<t tx="40323250.20151009213852.4">&lt;section&gt;
+    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
+    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
+    &lt;br&gt;
+    &lt;a href="#/2"&gt;
+    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
+    &lt;/a&gt;
+&lt;/section&gt;
+						</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1652,11 +1682,6 @@ You can link between slides internally,
 &lt;/p&gt;
 					</t>
 <t tx="amd.20150915170743.119">There's a &lt;a href="https://github.com/hakimel/reveal.js#speaker-notes"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.</t>
-<t tx="amd.20150915170743.12">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-						</t>
 <t tx="amd.20150915170743.120">&lt;p&gt;
 @others
 &lt;/p&gt;
@@ -1690,17 +1715,6 @@ You can link between slides internally,
 will be added as a class to the document element when the slide is open. This lets you
 apply broader style changes, like switching the page background.
 					</t>
-<t tx="amd.20150915170743.13">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;
-    Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.
-    &lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;</t>
 <t tx="amd.20150915170743.130">&lt;section data-state="customevent"&gt;
 &lt;h2&gt;State Events&lt;/h2&gt;
 					</t>
@@ -1745,11 +1759,6 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
 &lt;/li&gt;
 						</t>
 <t tx="amd.20150915170743.139">&lt;a href="https://github.com/hakimel/reveal.js#auto-sliding"&gt;Auto-progression&lt;/a&gt;</t>
-<t tx="amd.20150915170743.14">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
-&lt;/section&gt;
-						</t>
 <t tx="amd.20150915170743.140">&lt;li&gt;
 @others
 &lt;/li&gt;
@@ -1776,15 +1785,6 @@ Press B or . on your keyboard to pause the presentation. This is helpful when yo
 <t tx="amd.20150915170743.149">&lt;script src="js/reveal.js"&gt;&lt;/script&gt;
 
 		</t>
-<t tx="amd.20150915170743.15">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-    &lt;img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-						</t>
 <t tx="amd.20150915170743.150">&lt;script&gt;
 
 			// Full list of configuration options available at:
