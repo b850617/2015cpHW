@@ -849,16 +849,16 @@ ctrl + shift + d  creat a file belong to reveal2
 <t tx="40323250.20151009223651.1">&lt;section&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
-&lt;/section&gt;</t>
-<t tx="40323250.20151009223655.1">&lt;section&gt;
+</t>
+<t tx="40323250.20151009223655.1">
     &lt;p align="left"&gt;1. 建立網誌須注意檔案名稱是否衝突&lt;/p&gt;
     &lt;br&gt;
-&lt;/section&gt;</t>
-<t tx="40323250.20151009223723.1">&lt;section&gt;
+</t>
+<t tx="40323250.20151009223723.1">
     &lt;p align="left"&gt;2. 測試多筆資料時，新建一個測試倉儲&lt;/p&gt;
     &lt;br&gt;
-&lt;/section&gt;</t>
-<t tx="40323250.20151009223725.1">&lt;section&gt;
+</t>
+<t tx="40323250.20151009223725.1">
     &lt;p align="left"&gt;3. solvespace 繪圖 :
     &lt;br&gt;
     &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
