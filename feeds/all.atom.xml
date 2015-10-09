@@ -6,13 +6,18 @@
 
 &lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;p&gt;(繪圖練習)&lt;/p&gt;
+&lt;p&gt;( 繪圖練習 )&lt;/p&gt;
 &lt;img src="https://copy.com/EH2DIsAmdDUteTqJ"width="450"height="450"&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;p&gt;(過度限制)&lt;/p&gt;
+&lt;p&gt;( 過度限制 )&lt;/p&gt;
 &lt;img src="https://copy.com/GkeHyseguVCF0Zdq"width="450"height="450"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;( 物件干涉 )&lt;/p&gt;
+&lt;img src="https://copy.com/AjrFbbyeSSU9uJ67"width="450"height="450"&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
@@ -1105,12 +1110,10 @@ sssssssss
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;&lt;br&gt;
 &lt;a href="http://www.google.com" target="_blank"&gt;連到 Google&lt;/a&gt;
-&lt;br&gt;
-&lt;a href="http://www.google.com" target="_parent"&gt;連到 Google&lt;/a&gt;
-&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
 &lt;a href="http://www.google.com" target="_self"&gt;連到 Google&lt;/a&gt;
 &lt;br&gt;
-&lt;a href="http://www.google.com" target="_top"&gt;連到 Google&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;br&gt;

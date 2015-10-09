@@ -44,14 +44,14 @@
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
-<v t="amd.20150913233943.2"><vh>html</vh>
-<v t="amd.20150913233943.3"><vh>head</vh>
+<v t="amd.20150913233943.2" a="E"><vh>html</vh>
+<v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
 </v>
-<v t="amd.20150913233943.5"><vh>body</vh>
-<v t="amd.20150913233943.6"><vh>div</vh>
-<v t="amd.20150913233943.7"><vh>div</vh>
-<v t="amd.20150913234947.1"><vh>title page</vh>
+<v t="amd.20150913233943.5" a="E"><vh>body</vh>
+<v t="amd.20150913233943.6" a="E"><vh>div</vh>
+<v t="amd.20150913233943.7" a="E"><vh>div</vh>
+<v t="amd.20150913234947.1" a="E"><vh>title page</vh>
 <v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
 </v>
 <v t="amd.20150913235034.1"><vh>本日要點</vh></v>
@@ -69,13 +69,13 @@
 </v>
 </v>
 <v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
-<v t="amd.20150915155634.2"><vh>html 標註</vh>
-<v t="amd.20150915155634.3"><vh>head</vh>
+<v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915155634.3" a="E"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8"><vh>body</vh>
+<v t="amd.20150915155634.8" a="E"><vh>body</vh>
 <v t="amd.20150915155634.9"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
@@ -305,15 +305,16 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
-<v t="40323250.20151005184736.3"><vh>html 標註</vh>
-<v t="40323250.20151005184736.4"><vh>body 標註</vh>
-<v t="40323250.20151005184736.5"><vh>div class="reveal"</vh>
-<v t="40323250.20151005184736.6"><vh>div class="slides"</vh>
+<v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20151005184736.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151005184736.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151005184736.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151005184736.8"><vh>投影頁面2 筆記</vh></v>
 <v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
+<v t="40323250.20151009211548.1"><vh>投影頁面4 筆記</vh></v>
 <v t="40323250.20151005185356.1"><vh>投影頁面 自評與心得</vh></v>
 <v t="40323250.20151005185346.1"><vh>投影頁面 參考資料</vh></v>
 </v>
@@ -688,7 +689,7 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 06 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 09 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
@@ -728,7 +729,12 @@
     &lt;p align="left"&gt;4. solvespace 也能旋轉填料( shift + l )，點選旋轉軸後按下指令即可&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;5. ctrl + shift + t 追蹤點的位置，並在結束( ctrl + shift + s )後產生一個csv檔 ( 可用 SciTE 或 Excel 查看位置變化，便於結構運動時的運算 )&lt;/p&gt;
-
+    &lt;br&gt;
+    &lt;p align="left"&gt;6. 測量線段 : 如果是以點對點，測量出來的可能是有經過一角度的偏轉得到的長度，如果想要測量兩平行線段，須以一線段的點及另一線段整段者作測量&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;7. 在旋轉或伸長材料的時候，如果有干涉就會發生錯誤，目前還不知道如何將干涉的線段切除&lt;/p&gt;
+    &lt;br&gt;
+    
 
 &lt;/section&gt;
 				
@@ -751,6 +757,15 @@
     &lt;br&gt;
     &lt;p&gt;這禮拜大概知道老師想要表達的是什麼，我們所學到的很多事物其實都可以融會在一起，只是還沒用到而已，我也下定決心要開始鑽研英文領域了，對於資訊的進步我也嚇了一大跳，只要不久時間，剛學完的東西很快就會變成舊版，對於自己的能力要好好加強，否則很快就會被淘汰；至於網誌方面，剛好因為颱風假，我在家都已經試過如何新建和更改，也查了一些關於html的語法，建立網誌的方法我也有拍一個影片放在班網上。&lt;/p&gt;
     &lt;p&gt;評分 :  95 &lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151009211548.1">&lt;section id="hw-task-one"&gt;
+    &lt;p align="left"&gt;8. 繪製圓弧時，功能tangant arc 很常出現問題，目前只會將線段刪除重畫解決&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;9. 
+    
+
 &lt;/section&gt;
 				
 </t>

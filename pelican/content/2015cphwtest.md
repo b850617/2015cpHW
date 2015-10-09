@@ -19,11 +19,10 @@ Summary: 測試 一 test
 <br>
 [連到 Google](http://www.google.com){:target="_blank"}
 <br>
-[連到 Google](http://www.google.com){:target="_parent"}
+
 <br>
 [連到 Google](http://www.google.com){:target="_self"}
 <br>
-[連到 Google](http://www.google.com){:target="_top"}
 <br>
 <hr>
 <br>
