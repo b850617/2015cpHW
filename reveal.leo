@@ -316,10 +316,7 @@
 <v t="40323250.20151009223651.1"><vh>1</vh></v>
 <v t="40323250.20151009223655.1"><vh>2</vh></v>
 <v t="40323250.20151009223723.1"><vh>3</vh></v>
-<v t="40323250.20151009223725.1"><vh>4</vh></v>
 </v>
-<v t="40323250.20151005185324.1"><vh>投影頁面3 筆記</vh></v>
-<v t="40323250.20151009211548.1"><vh>投影頁面4 筆記</vh></v>
 <v t="40323250.20151005185356.1"><vh>投影頁面 自評與心得</vh></v>
 <v t="40323250.20151005185346.1"><vh>投影頁面 參考資料</vh></v>
 </v>
@@ -719,20 +716,6 @@
 &lt;/script&gt;
 	
 </t>
-<t tx="40323250.20151005185324.1">&lt;section id="hw-task-two"&gt;
-    &lt;p align="left"&gt;4. solvespace 也能旋轉填料( shift + l )，點選旋轉軸後按下指令即可&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;5. ctrl + shift + t 追蹤點的位置，並在結束( ctrl + shift + s )後產生一個csv檔 ( 可用 SciTE 或 Excel 查看位置變化，便於結構運動時的運算 )&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;6. 測量線段 : 如果是以點對點，測量出來的可能是有經過一角度的偏轉得到的長度，如果想要測量兩平行線段，須以一線段的點及另一線段整段者作測量&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;7. 在旋轉或伸長材料的時候，如果有干涉就會發生錯誤，目前還不知道如何將干涉的線段切除&lt;/p&gt;
-    &lt;br&gt;
-    
-
-&lt;/section&gt;
-				
-</t>
 <t tx="40323250.20151005185346.1">&lt;section&gt;
     &lt;h3&gt;相關連結&lt;/h3&gt;
     
@@ -751,15 +734,6 @@
     &lt;br&gt;
     &lt;p&gt;這禮拜大概知道老師想要表達的是什麼，我們所學到的很多事物其實都可以融會在一起，只是還沒用到而已，我也下定決心要開始鑽研英文領域了，對於資訊的進步我也嚇了一大跳，只要不久時間，剛學完的東西很快就會變成舊版，對於自己的能力要好好加強，否則很快就會被淘汰；至於網誌方面，剛好因為颱風假，我在家都已經試過如何新建和更改，也查了一些關於html的語法，建立網誌的方法我也有拍一個影片放在班網上。&lt;/p&gt;
     &lt;p&gt;評分 :  95 &lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
-<t tx="40323250.20151009211548.1">&lt;section id="hw-task-three"&gt;
-    &lt;p align="left"&gt;8. 繪製圓弧時，功能tangant arc 很常出現問題，目前只會將線段刪除重畫解決&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;9. 
-    
-
 &lt;/section&gt;
 				
 </t>
@@ -846,19 +820,13 @@ ctrl + shift + d  creat a file belong to reveal2
 				&lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151009223651.1">
+<t tx="40323250.20151009223651.1">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=RED&gt;
-</t>
-<t tx="40323250.20151009223655.1">
     &lt;p align="left"&gt;1. 建立網誌須注意檔案名稱是否衝突&lt;/p&gt;
     &lt;br&gt;
-</t>
-<t tx="40323250.20151009223723.1">
     &lt;p align="left"&gt;2. 測試多筆資料時，新建一個測試倉儲&lt;/p&gt;
     &lt;br&gt;
-</t>
-<t tx="40323250.20151009223725.1">
     &lt;p align="left"&gt;3. solvespace 繪圖 :
     &lt;br&gt;
     &lt;p align="left"&gt;* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )&lt;/p&gt;
@@ -866,6 +834,31 @@ ctrl + shift + d  creat a file belong to reveal2
     &lt;p align="left"&gt;*f3 : 等角視圖&lt;/p&gt;
     &lt;p align="left"&gt;*f2 : 正視圖&lt;/p&gt;
     &lt;p align="left"&gt;*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151009223655.1">&lt;section id="hw-task-two"&gt;
+    &lt;p align="left"&gt;4. solvespace 也能旋轉填料( shift + l )，點選旋轉軸後按下指令即可&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. ctrl + shift + t 追蹤點的位置，並在結束( ctrl + shift + s )後產生一個csv檔 ( 可用 SciTE 或 Excel 查看位置變化，便於結構運動時的運算 )&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;6. 測量線段 : 如果是以點對點，測量出來的可能是有經過一角度的偏轉得到的長度，如果想要測量兩平行線段，須以一線段的點及另一線段整段者作測量&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;7. 在旋轉或伸長材料的時候，如果有干涉就會發生錯誤，目前還不知道如何將干涉的線段切除&lt;/p&gt;
+    &lt;br&gt;
+    
+
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151009223723.1">&lt;section id="hw-task-three"&gt;
+    &lt;p align="left"&gt;8. 繪製圓弧時，功能tangant arc 很常出現問題，目前只會將線段刪除重畫解決&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;9. 
+    
+
+&lt;/section&gt;
+				
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
