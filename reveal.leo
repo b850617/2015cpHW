@@ -286,15 +286,19 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1"><vh>html 標註</vh>
-<v t="amd.20150915211351.4"><vh>body 標註</vh>
-<v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6"><vh>div class="slides"</vh>
+<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
+<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
+<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
+<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>投影頁面1 封面</vh></v>
-<v t="amd.20150915211351.9"><vh>投影頁面2 筆記</vh></v>
-<v t="amd.20150915211351.12"><vh>投影頁面3 筆記</vh></v>
+<v t="40323250.20151010090542.1" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151010090544.1"><vh>1</vh></v>
+<v t="40323250.20151010090544.2"><vh>2</vh></v>
+<v t="40323250.20151010090544.3"><vh>3</vh></v>
+<v t="40323250.20151010090544.4"><vh>4</vh></v>
+</v>
 <v t="leo.20150923165929.1"><vh>投影頁面4 筆記</vh></v>
 <v t="40323250.20150925200815.1"><vh>投影頁面5 筆記</vh></v>
 <v t="leo.20150923163632.1"><vh>投影頁面 自評與心得</vh></v>
@@ -305,7 +309,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
@@ -355,7 +359,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
 <v t="amd.20150915170743.3"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
@@ -579,15 +583,7 @@
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20150925200815.1">&lt;section id="hw-task-four"&gt;
-    &lt;p align="left"&gt;18. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;19. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;20. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
+<t tx="40323250.20150925200815.1"></t>
 <t tx="40323250.20150930161946.1">@language xml
 @tabwidth -4
 @others
@@ -857,6 +853,70 @@ ctrl + shift + d  creat a file belong to reveal2
     &lt;p align="left"&gt;9. 
     
 
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151010090542.1">&lt;section id="hw-task-one"&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151010090544.1">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=YELLOW&gt;
+    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動  程序 )。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. 檢查分支 : git bramch  &lt;/p&gt;
+    &lt;p align="left"&gt; 新建分支 : git branch (分支名稱)  &lt;/p&gt;
+    &lt;p align="left"&gt; 切換分支 : git checkout (分支名稱)&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4. 因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5. 新建的分支會複製原有的分支檔案&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151010090544.2">&lt;section id="hw-task-two"&gt;
+    &lt;p align="left"&gt;6. dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;7. git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單
+    一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;9.  reveal.leo 存檔之後所產生的simplest.html檔案 , 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
+    &lt;br&gt;
+        &lt;p align="left"&gt;10. github 產生的倉儲可以依造自己所需 , 產生 https 或者 ssh 的clone  URL&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;11. leo 檔案不正當的關閉 , 將導致 leo editor 出現錯誤而無法正常開啟&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151010090544.3">&lt;section id="hw-task-three"&gt;
+    &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
+    &lt;br&gt;
+    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和複製到 .git 檔 或  路徑錯誤 或 者其他問題
+    &lt;br&gt;
+    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯老師檔案 等原因 &lt;/p&gt;
+        &lt;br&gt;
+    &lt;p align="left"&gt;15. 老師的github倉儲放的資料都相同 , 只是版次不同&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;16. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;17. 分支如果有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151010090544.4">&lt;section id="hw-task-four"&gt;
+    &lt;p align="left"&gt;18. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;19. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;20. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2323,22 +2383,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;/head&gt;
 @others
 </t>
-<t tx="amd.20150915211351.12">&lt;section id="hw-task-two"&gt;
-    &lt;p align="left"&gt;6. dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;7. git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單
-    一1次 , 若沒有省略 , 則以後皆為默認 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;8. REM = REMARK  ,  .bat 檔 = batch 批次檔  ,  -s = set 設定&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;9.  reveal.leo 存檔之後所產生的simplest.html檔案 , 可以很方便的檢查近端leo的編輯狀況&lt;/p&gt;
-    &lt;br&gt;
-        &lt;p align="left"&gt;10. github 產生的倉儲可以依造自己所需 , 產生 https 或者 ssh 的clone  URL&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;11. leo 檔案不正當的關閉 , 將導致 leo editor 出現錯誤而無法正常開啟&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -2375,23 +2419,6 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 &lt;/section&gt;
 	
-</t>
-<t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h3&gt;筆記&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=YELLOW&gt;
-    &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動  程序 )。&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3. 檢查分支 : git bramch  &lt;/p&gt;
-    &lt;p align="left"&gt; 新建分支 : git branch (分支名稱)  &lt;/p&gt;
-    &lt;p align="left"&gt; 切換分支 : git checkout (分支名稱)&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;4. 因所在的分支不同 , 資料夾所顯示的檔案也有所不同 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;5. 新建的分支會複製原有的分支檔案&lt;/p&gt;
-&lt;/section&gt;
-				
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -2605,21 +2632,7 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;
 				
 </t>
-<t tx="leo.20150923165929.1">&lt;section id="hw-task-three"&gt;
-    &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
-    &lt;br&gt;
-    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和複製到 .git 檔 或  路徑錯誤 或 者其他問題
-    &lt;br&gt;
-    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯老師檔案 等原因 &lt;/p&gt;
-        &lt;br&gt;
-    &lt;p align="left"&gt;15. 老師的github倉儲放的資料都相同 , 只是版次不同&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;16. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;17. 分支如果有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
-&lt;/section&gt;
-				
-</t>
+<t tx="leo.20150923165929.1"></t>
 <t tx="leo.20150923202920.10">&lt;section id="hw-task-two"&gt;
     &lt;p align="left"&gt;10. 持續更新中&lt;/p&gt;
     &lt;br&gt;
