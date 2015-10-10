@@ -307,7 +307,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
@@ -319,6 +319,7 @@
 <v t="40323250.20151009223655.1"><vh>2</vh></v>
 <v t="40323250.20151009223723.1"><vh>3</vh></v>
 </v>
+<v t="40323250.20151010183459.1"><vh>投影頁面 solvespace繪圖心得</vh></v>
 <v t="40323250.20151005185356.1"><vh>投影頁面 自評與心得</vh></v>
 <v t="40323250.20151005185346.1"><vh>投影頁面 參考資料</vh></v>
 </v>
@@ -690,7 +691,7 @@
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 09 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 10 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
@@ -723,7 +724,7 @@
 				
 </t>
 <t tx="40323250.20151005185356.1">&lt;section&gt;
-    &lt;h3&gt;自評&lt;/h3&gt;
+    &lt;h3&gt;自評和上課心得&lt;/h3&gt;
     &lt;br&gt;
     &lt;p&gt;這禮拜大概知道老師想要表達的是什麼，我們所學到的很多事物其實都可以融會在一起，只是還沒用到而已，我也下定決心要開始鑽研英文領域了，對於資訊的進步我也嚇了一大跳，只要不久時間，剛學完的東西很快就會變成舊版，對於自己的能力要好好加強，否則很快就會被淘汰；至於網誌方面，剛好因為颱風假，我在家都已經試過如何新建和更改，也查了一些關於html的語法，建立網誌的方法我也有拍一個影片放在班網上。&lt;/p&gt;
     &lt;p&gt;評分 :  95 &lt;/p&gt;
@@ -829,7 +830,7 @@ ctrl + shift + d  creat a file belong to reveal2
     &lt;br&gt;
     &lt;p align="left"&gt;6. 測量線段 : 如果是以點對點，測量出來的可能是有經過一角度的偏轉得到的長度，如果想要測量兩平行線段，須以一線段的點及另一線段整段者作測量&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;7. 在旋轉或伸長材料的時候，如果有干涉就會發生錯誤，目前還不知道如何將干涉的線段切除&lt;/p&gt;
+    &lt;p align="left"&gt;7. 如果草圖沒有封閉或是有多餘的線條，伸長或旋轉只會產生線條延伸，沒有實體的產生&lt;/p&gt;
     &lt;br&gt;
     
 
@@ -904,6 +905,14 @@ ctrl + shift + d  creat a file belong to reveal2
     &lt;p align="left"&gt;18. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;19. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151010183459.1">&lt;section&gt;
+    &lt;h3&gt; solvespace繪圖心得&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;solvespace是一個簡便且容易攜帶的繪圖軟體，雖然類似solidworks，但在繪製過程中還是遇到許多問題，如建立繪製的草圖後還是會產生無法圓角，或是切割線段後如有重疊的線段要一一找出來刪掉，光畫一個丙級題目就花了快2個小時，但至少現在能畫出一個基本的立體圖了，再來就要學如何建立一個可以頃斜於三軸的基準面了&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
