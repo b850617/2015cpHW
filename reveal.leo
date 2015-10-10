@@ -307,7 +307,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
@@ -2397,7 +2397,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-       &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 04 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+       &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 10 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
     &lt;br&gt;	
