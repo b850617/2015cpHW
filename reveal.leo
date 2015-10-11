@@ -837,15 +837,7 @@ ctrl + shift + d  creat a file belong to reveal2
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151009223723.1">&lt;section id="hw-task-three"&gt;
-    &lt;p align="left"&gt;8. 繪製圓弧時，功能tangant arc 很常出現問題，目前只會將線段刪除重畫解決&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;9. 
-    
-
-&lt;/section&gt;
-				
-</t>
+<t tx="40323250.20151009223723.1"></t>
 <t tx="40323250.20151010090542.1">&lt;section&gt;
 &lt;p&gt;
 @others
