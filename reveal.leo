@@ -1028,7 +1028,7 @@ ctrl + shift + d  creat a file belong to reveal2
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 15 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 16 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
     &lt;br&gt;
     &lt;br&gt;
     &lt;h2&gt;四設計二乙&lt;/h2&gt;
@@ -1048,7 +1048,7 @@ ctrl + shift + d  creat a file belong to reveal2
 <t tx="40323250.20151014161048.9">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1. &lt;/p&gt;
+    &lt;p align="left"&gt;1. 繪製草圖之前，要先選擇要繪製的平面後，再選擇旋轉或是拉伸&lt;/p&gt;
     &lt;br&gt;
 
 &lt;/section&gt;
