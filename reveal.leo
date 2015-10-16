@@ -970,10 +970,8 @@ ctrl + shift + d  creat a file belong to reveal2
 <t tx="40323250.20151014161048.14">&lt;section&gt;
     &lt;h3&gt;相關連結&lt;/h3&gt;
     
-    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.powmo.com/#b14?p=3643#more-3643"&gt;HTML語法&lt;/a&gt;
-   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://www.copy.com/page/"&gt;Copy.com&lt;/a&gt;
-   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="https://github.com/doggy8088/Learn-Git-in-30-days/"&gt;Learn-Git-in-30-days&lt;/a&gt;
-   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.tpjh.kh.edu.tw/edu/fp/theory/30syn/htmlteach.files/html.htm#t1"&gt;HTML語法教學&lt;/a&gt;
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href=""&gt;&lt;/a&gt;
+
 
 
 
