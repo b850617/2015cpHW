@@ -339,9 +339,8 @@
 <v t="40323250.20151014161048.8" a="E"><vh>投影頁面2 筆記</vh>
 <v t="40323250.20151014161048.9"><vh>1</vh></v>
 <v t="40323250.20151014161048.10"><vh>2</vh></v>
-<v t="40323250.20151014161048.11"><vh>3</vh></v>
 </v>
-<v t="40323250.20151014161048.12"><vh>投影頁面 solvespace繪圖心得</vh></v>
+<v t="40323250.20151014161048.12"><vh>投影頁面 creo繪圖心得</vh></v>
 <v t="40323250.20151014161048.13"><vh>投影頁面 自評與心得</vh></v>
 <v t="40323250.20151014161048.14"><vh>投影頁面 參考資料</vh></v>
 </v>
@@ -947,14 +946,10 @@ ctrl + shift + d  creat a file belong to reveal2
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151014161048.11">&lt;section id="hw-task-three"&gt;
-    &lt;p align="left"&gt;&lt;/p&gt;
-
-&lt;/section&gt;</t>
 <t tx="40323250.20151014161048.12">&lt;section&gt;
     &lt;h3&gt; creo繪圖心得&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;繼solvespace之後，creo又是一套從來沒有接觸過的繪圖軟體，在功能上比solvespace多了許多功能，&lt;/p&gt;
+    &lt;p&gt;繼solvespace之後，creo又是一套從來沒有接觸過的繪圖軟體，功能比solvespace多了許多，能做各種的圖形，對零件的顏色配置也很方便，可是個人認為也有少部分缺點，右鍵的選單需要按著才會出現，標註有時候也需要使用到右鍵的選單，對於剛開始接觸這套軟體花了很大的心力，光是一個組合件作業就花了大約6個小時研究，也許是習慣了別種軟體後才導致的不適應&lt;/p&gt;
 
 &lt;/section&gt;
 				
@@ -962,8 +957,8 @@ ctrl + shift + d  creat a file belong to reveal2
 <t tx="40323250.20151014161048.13">&lt;section&gt;
     &lt;h3&gt;自評和上課心得&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
-    &lt;p&gt;評分 :   &lt;/p&gt;
+    &lt;p&gt;creo、solvespace 大致上都知道如何使用了，對於pdf轉檔之後上傳到gitub之後，如何將內容轉至投影片內這部分還想不到如何做，想學的還有很多，要趕緊把握時間了&lt;/p&gt;
+    &lt;p&gt;評分 :  90 &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -1048,13 +1043,12 @@ ctrl + shift + d  creat a file belong to reveal2
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt;1. 繪製草圖之前，要先選擇要繪製的平面後，再選擇旋轉或是拉伸&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2. &lt;/p&gt;
+    &lt;p align="left"&gt;2. 如果要加入限制條件，需選取該線段後按著右鍵後，才會出現選單&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;3. &lt;/p&gt;
+    &lt;p align="left"&gt;3. 在標註尺寸時，點選兩端點或者一線段後，按著右鍵後找出選單中所需要的尺寸種類&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;4. &lt;/p&gt;
+    &lt;p align="left"&gt;4. 旋轉材料的時候，要訂定一個旋轉軸，否則繪製的建構線會消失&lt;/p&gt;
     &lt;br&gt;
-
 &lt;/section&gt;
 				
 </t>
