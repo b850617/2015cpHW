@@ -1050,6 +1050,12 @@ ctrl + shift + d  creat a file belong to reveal2
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt;1. 繪製草圖之前，要先選擇要繪製的平面後，再選擇旋轉或是拉伸&lt;/p&gt;
     &lt;br&gt;
+    &lt;p align="left"&gt;2. &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4. &lt;/p&gt;
+    &lt;br&gt;
 
 &lt;/section&gt;
 				
