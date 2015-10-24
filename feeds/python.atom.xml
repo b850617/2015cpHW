@@ -9,8 +9,8 @@
 &lt;title&gt;Deemo.m3u&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;audio controls autoplay &gt;
-        &lt;EMBED src="https://copy.com/NyqTwDKaEnwOWaT7/"&gt;
+    &lt;audio controls pause&gt;
+        &lt;embed src="https://copy.com/KPI72YT6wceALq7X"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
