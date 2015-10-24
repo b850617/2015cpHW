@@ -11,7 +11,7 @@
 &lt;body&gt;
     &lt;audio controls pause loop&gt;
         &lt;source src="https://copy.com/CSFSa3wmtt1OQg8P"&gt;
-        &lt;source src="https://copy.com/BLsMgIEpQGcjke4s"&gt;
+        &lt;ended src="https://copy.com/BLsMgIEpQGcjke4s"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
