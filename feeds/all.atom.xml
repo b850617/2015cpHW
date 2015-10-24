@@ -9,8 +9,9 @@
 &lt;title&gt;Okawari - Flower Dance&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;audio controls pause&gt;
+    &lt;audio controls pause loop&gt;
         &lt;source src="https://copy.com/CSFSa3wmtt1OQg8P"&gt;
+        &lt;embed src="https://copy.com/BLsMgIEpQGcjke4s"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
@@ -18,8 +19,21 @@
 &lt;br&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計 ( W5 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T00:11:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-16:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;p&gt;投影片為作業內容&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;
+&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;投影片放大&lt;/a&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;全能住宅改造王 - Takumi匠&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls pause&gt;
+        &lt;source src="https://copy.com/BLsMgIEpQGcjke4s"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;br&gt;
 &lt;h4&gt;( 繪圖練習1 )&lt;/h4&gt;
 &lt;br&gt;
 &lt;iframe src="https://player.vimeo.com/video/142657305" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -50,24 +64,24 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;br&gt;
+&lt;hr&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計 ( W4 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-06T20:04:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-06:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;投影片為作業內容&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;投影片放大&lt;/a&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;html&gt;
 &lt;head&gt;
-&lt;title&gt;全能住宅改造王 - Takumi匠&lt;/title&gt;
+&lt;title&gt;宮崎駿-久石讓_音樂集&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;audio controls autoplay&gt;
-        &lt;source src="https://copy.com/BLsMgIEpQGcjke4s"&gt;
+    &lt;audio controls pause&gt;
+        &lt;source src="https://copy.com/s2iQiqdBVkOkAels"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-&lt;hr&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計 ( W4 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-06T20:04:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-10-06:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;投影片為作業內容&lt;/p&gt;
-&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
 &lt;h4&gt;( 繪圖練習1 )&lt;/h4&gt;
 &lt;iframe src="https://player.vimeo.com/video/142662746" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
@@ -91,22 +105,27 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;hr&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;宮崎駿-久石讓_音樂集&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;audio controls autoplay&gt;
-        &lt;source src="https://copy.com/s2iQiqdBVkOkAels"&gt;
-    &lt;/audio&gt;
-&lt;/body&gt;
-&lt;/html&gt;
 &lt;hr&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計 ( W1、2 )</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;投影片為作業內容&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p target="_blank"&gt;&lt;a href="simplest.html"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;&lt;a href="simplest.html"&gt;投影片放大&lt;/a&gt;
+{:target="_blank"}
+&lt;br&gt;
+&lt;hr&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;SEKAI NO OWARI - Dragon Night&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;audio controls pause&gt;
+        &lt;source src="https://copy.com/Y1aTlZnBz7VGuQEZ"&gt;
+    &lt;/audio&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;hr&gt;
+&lt;br&gt;
+使用 H1 標題
+============&lt;/p&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
 &lt;ul&gt;
@@ -192,17 +211,6 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;br&gt;
-&lt;hr&gt;
-&lt;html&gt;
-&lt;head&gt;
-&lt;title&gt;SEKAI NO OWARI - Dragon Night&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;audio controls autoplay&gt;
-        &lt;source src="https://copy.com/Y1aTlZnBz7VGuQEZ"&gt;
-    &lt;/audio&gt;
-&lt;/body&gt;
-&lt;/html&gt;
 &lt;hr&gt;&lt;/p&gt;
 &lt;div class="footnote"&gt;
 &lt;hr /&gt;
