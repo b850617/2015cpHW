@@ -1208,16 +1208,18 @@ sssssssss
 &lt;/div&gt;
 
 &lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;table width="300" border="1" cellspacing="2"&gt;
+&lt;tr&gt;
 &lt;td rowspan=3 align=center&gt;儲存格 A1&lt;/td&gt;
 &lt;td&gt;儲存格 B1&lt;/td&gt;
 &lt;td rowspan=3 align=center&gt;儲存格 A2&lt;/td&gt;
 &lt;td&gt;儲存格 B2&lt;/td&gt;
-&lt;tr&gt;
+&lt;/tr&gt;
 &lt;td&gt;儲存格 B3&lt;/td&gt;
 &lt;td&gt;儲存格 B4&lt;/td&gt;
 &lt;tr&gt;
 &lt;td&gt;儲存格 B5&lt;/td&gt;
 &lt;td&gt;儲存格 B6&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
