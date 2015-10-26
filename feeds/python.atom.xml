@@ -1207,8 +1207,7 @@ sssssssss
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;p&gt;以下為作業內容
-利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;p&gt;&lt;br&gt;
 &lt;table border=1&gt;
 &lt;td rowspan=3 align=center&gt;儲存格 A1&lt;/td&gt;
 &lt;td&gt;儲存格 B1&lt;/td&gt;
@@ -1222,51 +1221,46 @@ sssssssss
 &lt;td&gt;儲存格 B5&lt;/td&gt;
 &lt;tr&gt;
 &lt;td&gt;儲存格 B6&lt;/td&gt;
-&amp;LT/table&gt;
-
+&amp;amp;LT/table&amp;gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;br&gt;
-
-
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest0.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-[作業一投影片](simplest0.html){:target="_blank"}
-
-使用 H1 標題
-============
-
-&lt;br&gt;
-[連到 Google](http://www.google.com){:target="_blank"}
-&lt;br&gt;
-
-&lt;br&gt;
-[連到 Google](http://www.google.com){:target="_self"}
+&lt;p&gt;&lt;a href="simplest0.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;a href="http://www.google.com" target="_blank"&gt;連到 Google&lt;/a&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;a href="http://www.google.com" target="_self"&gt;連到 Google&lt;/a&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;hr&gt;
 &lt;br&gt;
-&lt;p&gt;test line &lt;/p&gt;
-
+&lt;p&gt;test line &lt;/p&gt;&lt;/p&gt;
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
 &lt;title&gt;蟲師 -  春と嘯く&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;audio controls autoplay&gt;
+    &lt;audio controls pause loop&gt;
         &lt;source src="https://copy.com/uw3nr4icUyUjbVgm"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 
-
-
-使用註腳 [^1].
-
-
-123
-
-[^1]: 註腳會連結到這裡.</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;使用註腳 &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;123&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr /&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>

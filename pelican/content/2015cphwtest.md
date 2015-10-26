@@ -6,9 +6,8 @@ Tags: pelican, publishing
 Slug: 2015cp_test
 Authors: b850617
 Summary:注意音量
-以下為作業內容
-利用 iframe 嵌入投影片:
 
+<br>
 <table border=1>
 <td rowspan=3 align=center>儲存格 A1</td>
 <td>儲存格 B1</td>
@@ -29,6 +28,8 @@ Summary:注意音量
 <br>
 <br>
 
+
+利用 iframe 嵌入投影片:
 
 <iframe src="simplest0.html" width="500" height="300"></iframe>
 
@@ -55,7 +56,7 @@ Summary:注意音量
 <title>蟲師 -  春と嘯く</title>
 </head>
 <body>
-    <audio controls autoplay>
+    <audio controls pause loop>
         <source src="https://copy.com/uw3nr4icUyUjbVgm">
     </audio>
 </body>
