@@ -9,6 +9,22 @@ Summary:注意音量
 以下為作業內容
 利用 iframe 嵌入投影片:
 
+<table border=1>
+<td rowspan=3 align=center>儲存格 A1</td>
+<td>儲存格 B1</td>
+<tr>
+<td>儲存格 B2</td>
+<tr>
+<td>儲存格 B3</td>
+<tr>
+<td>儲存格 B4</td>
+<tr>
+<td>儲存格 B5</td>
+<tr>
+<td>儲存格 B6</td>
+<&LT/table>
+
+
 <iframe src="simplest0.html" width="500" height="300"></iframe>
 
 [作業一投影片](simplest0.html){:target="_blank"}
