@@ -8,8 +8,8 @@ Authors: b850617
 Summary:注意音量
 
 
-<table width="450" border="1" cellspacing="2">
-<tr><td colspan=4>組別</td></tr>
+<table width="600" border="2" cellspacing="4">
+<tr><td colspan=4 align=center>組別</td></tr>
 <tr>
 <td colspan=1 align=center>1</td>
 <td colspan=1 align=center>2</td>
