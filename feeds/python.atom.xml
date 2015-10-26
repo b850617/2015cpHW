@@ -1208,9 +1208,9 @@ sssssssss
 &lt;/div&gt;
 
 &lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;table width="600" border="2" cellspacing="4"&gt;
-&lt;tr&gt;&lt;td colspan=4 align=center&gt;&lt;font size="6"&gt;組別&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=4 align=center&gt;&lt;font size="4"&gt;組別&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan=1 align=center&gt;第一組&lt;/td&gt;
+&lt;td colspan=1 align=center&gt;&lt;font size="3"&gt;第一組&lt;/font&gt;&lt;/td&gt;
 &lt;td colspan=1 align=center&gt;第二組&lt;/td&gt;
 &lt;td colspan=1 align=center&gt;第三組&lt;/td&gt;
 &lt;td colspan=1 align=center&gt;第四組&lt;/td&gt;
