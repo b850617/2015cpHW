@@ -7,26 +7,11 @@ Slug: 2015cp_test
 Authors: b850617
 Summary:注意音量
 
-<br>
+
 <table border=1>
-<td rowspan=3 align=center>儲存格 A1</td>
-<td>儲存格 B1</td>
-<tr>
-<td>儲存格 B2</td>
-<tr>
-<td>儲存格 B3</td>
-<tr>
-<td>儲存格 B4</td>
-<tr>
-<td>儲存格 B5</td>
-<tr>
-<td>儲存格 B6</td>
-&LT/table>
-<br>
-<br>
-<br>
-<br>
-<br>
+<td>儲存格1</td>
+<td>儲存格2</td>
+</table>
 
 
 利用 iframe 嵌入投影片:
