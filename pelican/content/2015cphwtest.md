@@ -8,7 +8,7 @@ Authors: b850617
 Summary:注意音量
 
 
-<table rder="1>
+<table width="300" border="1" cellspacing="2">
 <td rowspan=3 align=center>儲存格 A1</td>
 <td>儲存格 B1</td>
 <td rowspan=3 align=center>儲存格 A2</td>
