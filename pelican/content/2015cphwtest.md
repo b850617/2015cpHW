@@ -9,12 +9,12 @@ Summary:注意音量
 
 
 <table width="600" border="2" cellspacing="4">
-<tr><td colspan=4 align=center>組別</td></tr>
+<tr><td colspan=4 align=center><font size="5">組別</font></td></tr>
 <tr>
-<td colspan=1 align=center>1</td>
-<td colspan=1 align=center>2</td>
-<td colspan=1 align=center>3</td>
-<td colspan=1 align=center>4</td>
+<td colspan=1 align=center>第一組</td>
+<td colspan=1 align=center>第二組</td>
+<td colspan=1 align=center>第三組</td>
+<td colspan=1 align=center>第四組</td>
 </tr>
 <tr>
 <td colspan=1 align=center>1</td>
@@ -59,10 +59,10 @@ Summary:注意音量
 <td colspan=1 align=center>4</td>
 </tr>
 <tr>
-<td colspan=1 align=center>5</td>
-<td colspan=1 align=center>6</td>
-<td colspan=1 align=center>7</td>
-<td colspan=1 align=center>8</td>
+<td colspan=1 align=center>第五組</td>
+<td colspan=1 align=center>第六組</td>
+<td colspan=1 align=center>第七組</td>
+<td colspan=1 align=center>第八組</td>
 </tr>
 <tr>
 <td colspan=1 align=center>1</td>
