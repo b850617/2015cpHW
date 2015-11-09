@@ -41,6 +41,7 @@
 <v t="40323250.20151005181043.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="40323250.20151014161113.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="40323250.20151023185952.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="40323250.20151109162210.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="40323250.20151024173149.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="40323250.20150927205130.1"><vh>@edit 2015cphwtest.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
@@ -310,7 +311,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151005184736.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151005184736.1"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151005184736.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151005184736.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151005184736.4" a="E"><vh>body 標註</vh>
@@ -381,6 +382,7 @@
 <v t="40323250.20151024173229.10"><vh>2</vh></v>
 </v>
 <v t="40323250.20151024173229.11"><vh>投影頁面 自評與心得</vh></v>
+<v t="40323250.20151109162147.1"><vh>相關連結</vh></v>
 </v>
 </v>
 <v t="40323250.20151024173229.12"><vh>script</vh></v>
@@ -1171,17 +1173,18 @@ ctrl + shift + d  creat a file belong to reveal2
 
 </t>
 <t tx="40323250.20151024173229.10">&lt;section&gt;
-&lt;p align="left"&gt;&lt;/p&gt;
+&lt;p align="left"&gt;2.如果是從第一版的網誌co檔案過來，投影片的@edit 節點如果有從屬資料，要改成@clean才能產生相對應的網頁格式&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="40323250.20151024173229.11">&lt;section&gt;
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這一週開始將自己的各週作業導入班上倉儲，出錯機率提高了八成至九成，如果檔案建置不完全還可以補救，但是reveal.leo檔案如果無法正常開啟，我也不知道該如何是好了，目前的對策也只有備份資料而已，對於"幫助"班上理解倉儲的營運好像是目前的首要目標&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 :  &lt;/p&gt; 
+    &lt;p&gt;評分 : 85 &lt;/p&gt; 
 &lt;/section&gt;		
+		
 </t>
 <t tx="40323250.20151024173229.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -1251,10 +1254,23 @@ ctrl + shift + d  creat a file belong to reveal2
 <t tx="40323250.20151024173229.9">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt; &lt;/p&gt;
+    &lt;p align="left"&gt;1. 對於 solvespace 與 creo 或是其他繪圖軟體而言，老師說的沒錯，一個才2.3MB大小的軟體，功能上確實不足SW和creo這等知名軟體，但在另一方面solvespace的可攜性卻勝出一大截，再需要繪圖軟體之際，又不需要太多功能，這時候solvespace就派上用場了，基本功能都有，且在繪圖上也很方便，就只差檔案能否和其他軟體互相支援了&lt;/p&gt;
     &lt;br&gt;
 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
+<t tx="40323250.20151109162147.1">&lt;section&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
+    &lt;hr&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://clie.ws/bbs/?app=blog&amp;blogid=15&amp;showentry=496&amp;"&gt;HTML 語法 Table 表格標籤語法&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.webtech.tw/info.php?tid=HTML+%E8%A1%A8%E6%A0%BC%E6%AC%84%E4%BD%8D%E5%85%A7%E6%96%87%E5%AD%97%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD%E8%88%87%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD"&gt;HTML 表格欄位內文字水平置中與垂直置中&lt;/a&gt;
+
+
+
+&lt;/section&gt;
+				
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
