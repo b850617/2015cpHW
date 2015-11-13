@@ -1266,31 +1266,7 @@ sssssssss
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;div class="container" tips-clock-bar&gt;
-      &lt;div class="col-lg-7 visible-lg"&gt;
-        &lt;div&gt;
-          &lt;span ng-bind="tip" style="color:#bbb;line-height:43px;"&gt;&lt;/span&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class="col-sm-12 col-lg-5"&gt;
-        &lt;div class="timer"&gt;
-          &lt;timer ng-cloak interval="1000" countdown="countdown"/&gt;
-            &lt;span class="timer-desc" class="pull-right"&gt;距離午夜倒數&lt;/span&gt;
-            &lt;span class="timer-unit mobile-hide"&gt;&lt;span class="timer-number"&gt;{{hours}}&lt;/span&gt;Hours&lt;/span&gt;
-            &lt;span class="timer-unit mobile-hide"&gt;&lt;span class="timer-number"&gt;{{minutes}}&lt;/span&gt;Minutes&lt;/span&gt;
-            &lt;span class="timer-unit mobile-hide"&gt;&lt;span class="timer-number"&gt;{{seconds}}&lt;/span&gt;Seconds&lt;/span&gt;
-            &lt;span class="timer-unit mobile-only-inline"&gt;&lt;span class="timer-number"&gt;{{hours}}&lt;/span&gt;h&lt;/span&gt;
-            &lt;span class="timer-unit mobile-only-inline"&gt;&lt;span class="timer-number"&gt;{{minutes}}&lt;/span&gt;m&lt;/span&gt;
-            &lt;span class="timer-unit mobile-only-inline"&gt;&lt;span class="timer-number"&gt;{{seconds}}&lt;/span&gt;s&lt;/span&gt;
-          &lt;/timer&gt;
-        &lt;/div&gt;
-        &lt;div class="clearfix"&gt;&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;table width="600" border="2" cellspacing="4"&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;table width="600" border="2" cellspacing="4"&gt;
 &lt;tr&gt;&lt;td colspan=4 align=center&gt;&lt;font size="5"&gt;組別&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan=1 align=center&gt;&lt;font size="3"&gt;第一組&lt;/font&gt;&lt;/td&gt;

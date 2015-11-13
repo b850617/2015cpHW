@@ -7,31 +7,6 @@ Slug: 2015cp_test
 Authors: b850617
 Summary:注意音量
 
-<div class="container" tips-clock-bar>
-      <div class="col-lg-7 visible-lg">
-        <div>
-          <span ng-bind="tip" style="color:#bbb;line-height:43px;"></span>
-        </div>
-      </div>
-      <div class="col-sm-12 col-lg-5">
-        <div class="timer">
-          <timer ng-cloak interval="1000" countdown="countdown"/>
-            <span class="timer-desc" class="pull-right">距離午夜倒數</span>
-            <span class="timer-unit mobile-hide"><span class="timer-number">{{hours}}</span>Hours</span>
-            <span class="timer-unit mobile-hide"><span class="timer-number">{{minutes}}</span>Minutes</span>
-            <span class="timer-unit mobile-hide"><span class="timer-number">{{seconds}}</span>Seconds</span>
-            <span class="timer-unit mobile-only-inline"><span class="timer-number">{{hours}}</span>h</span>
-            <span class="timer-unit mobile-only-inline"><span class="timer-number">{{minutes}}</span>m</span>
-            <span class="timer-unit mobile-only-inline"><span class="timer-number">{{seconds}}</span>s</span>
-          </timer>
-        </div>
-        <div class="clearfix"></div>
-      </div>
-    </div>
-  </div>
-
-
-
 <table width="600" border="2" cellspacing="4">
 <tr><td colspan=4 align=center><font size="5">組別</font></td></tr>
 <tr>
