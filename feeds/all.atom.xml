@@ -1266,10 +1266,7 @@ sssssssss
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;  &lt;span class="nt"&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;span class="c"&gt;&amp;lt;!-- /.navbar-collapse --&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;
-
-&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;container&amp;quot;&lt;/span&gt; &lt;span class="err"&gt;tips-clock-bar&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>測試</title><link href="http://coursemdetw.github.io/reveal/2015cp_test.html" rel="alternate"></link><updated>2015-09-26T16:12:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-26:reveal/2015cp_test.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;container&amp;quot;&lt;/span&gt; &lt;span class="err"&gt;tips-clock-bar&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
   &lt;span class="nt"&gt;&amp;lt;div&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;col-lg-7 visible-lg&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
     &lt;span class="nt"&gt;&amp;lt;div&amp;gt;&lt;/span&gt;
       &lt;span class="nt"&gt;&amp;lt;span&lt;/span&gt; &lt;span class="na"&gt;ng-bind=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tip&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;style=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;color:#bbb;line-height:43px;&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/span&amp;gt;&lt;/span&gt;

@@ -7,10 +7,6 @@ Slug: 2015cp_test
 Authors: b850617
 Summary:注意音量
 
-
-      </div><!-- /.navbar-collapse -->
-    </nav>
-
     <div class="container" tips-clock-bar>
       <div class="col-lg-7 visible-lg">
         <div>
