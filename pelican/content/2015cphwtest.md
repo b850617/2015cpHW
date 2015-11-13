@@ -7,7 +7,7 @@ Slug: 2015cp_test
 Authors: b850617
 Summary:注意音量
 
-    <div class="container" tips-clock-bar>
+<div class="container" tips-clock-bar>
       <div class="col-lg-7 visible-lg">
         <div>
           <span ng-bind="tip" style="color:#bbb;line-height:43px;"></span>
